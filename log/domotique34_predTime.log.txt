@@ -1,0 +1,48 @@
+blog's life from 2012 to 2014
+///////////////////////////////////////////////////////////
+current_year:2012-train_total:30
+training matrix shape:(30, 12312)
+objects with labels: (30, 7) - number of categories: 7
+year:2012-train:30 w:1
+size of weights array:30
+test set range:[2013-2013]-test_total:101
+test matrix shape:(101, 12312)
+objects with labels: (101, 7)
+labels predicted shape:(101, 7)
+labels predicted shape:(101, 7)
+scores[accuracy,precision,recall,f1-measure]:
+s--0.29702970297,0.509345794393,0.893442622951,0.64880952381
+scoresWa[accuracy,precision,recall,f1-measure]:
+sw--0.29702970297,0.509345794393,0.893442622951,0.64880952381
+-------------------------------------------------------
+test set range:[2013-2014]-test_total:102
+test matrix shape:(102, 12312)
+objects with labels: (102, 7)
+labels predicted shape:(102, 7)
+labels predicted shape:(102, 7)
+scores[accuracy,precision,recall,f1-measure]:
+s--0.294117647059,0.511520737327,0.895161290323,0.651026392962
+scoresWa[accuracy,precision,recall,f1-measure]:
+sw--0.294117647059,0.511520737327,0.895161290323,0.651026392962
+-------------------------------------------------------
+0:00:00.491746
+===========================================================
+current_year:2013-train_total:131
+training matrix shape:(131, 38644)
+objects with labels: (131, 14) - number of categories: 14
+year:2013-train:101 w:1
+year:2012-train:30 w:0.666666666667
+size of weights array:131
+test set range:[2014-2014]-test_total:1
+test matrix shape:(1, 38644)
+objects with labels: (1, 14)
+labels predicted shape:(1, 14)
+labels predicted shape:(1, 14)
+scores[accuracy,precision,recall,f1-measure]:
+s--0.0,0.5,1.0,0.666666666667
+scoresWa[accuracy,precision,recall,f1-measure]:
+sw--0.0,0.333333333333,1.0,0.5
+-------------------------------------------------------
+0:00:01.846016
+===========================================================
+Total time:0:00:02.878545

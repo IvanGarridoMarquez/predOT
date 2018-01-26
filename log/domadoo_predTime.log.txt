@@ -1,0 +1,270 @@
+blog's life from 2009 to 2015
+///////////////////////////////////////////////////////////
+current_year:2009-train_total:93
+training matrix shape:(93, 9038)
+objects with labels: (93, 19) - number of categories: 19
+year:2009-train:93 w:1
+size of weights array:93
+test set range:[2010-2010]-test_total:162
+test matrix shape:(162, 9038)
+objects with labels: (162, 19)
+labels predicted shape:(162, 19)
+labels predicted shape:(162, 19)
+scores[accuracy,precision,recall,f1-measure]:
+s--0.216049382716,0.13698630137,0.909090909091,0.238095238095
+scoresWa[accuracy,precision,recall,f1-measure]:
+sw--0.216049382716,0.13698630137,0.909090909091,0.238095238095
+-------------------------------------------------------
+test set range:[2010-2011]-test_total:294
+test matrix shape:(294, 9038)
+objects with labels: (294, 19)
+labels predicted shape:(294, 19)
+labels predicted shape:(294, 19)
+scores[accuracy,precision,recall,f1-measure]:
+s--0.255102040816,0.121457489879,0.882352941176,0.213523131673
+scoresWa[accuracy,precision,recall,f1-measure]:
+sw--0.255102040816,0.121457489879,0.882352941176,0.213523131673
+-------------------------------------------------------
+test set range:[2010-2012]-test_total:495
+test matrix shape:(495, 9038)
+objects with labels: (495, 19)
+labels predicted shape:(495, 19)
+labels predicted shape:(495, 19)
+scores[accuracy,precision,recall,f1-measure]:
+s--0.329292929293,0.111111111111,0.854166666667,0.196642685851
+scoresWa[accuracy,precision,recall,f1-measure]:
+sw--0.329292929293,0.111111111111,0.854166666667,0.196642685851
+-------------------------------------------------------
+test set range:[2010-2013]-test_total:811
+test matrix shape:(811, 9038)
+objects with labels: (811, 19)
+labels predicted shape:(811, 19)
+labels predicted shape:(811, 19)
+scores[accuracy,precision,recall,f1-measure]:
+s--0.368680641184,0.0960854092527,0.857142857143,0.1728
+scoresWa[accuracy,precision,recall,f1-measure]:
+sw--0.368680641184,0.0960854092527,0.857142857143,0.1728
+-------------------------------------------------------
+test set range:[2010-2014]-test_total:1209
+test matrix shape:(1209, 9038)
+objects with labels: (1209, 19)
+labels predicted shape:(1209, 19)
+labels predicted shape:(1209, 19)
+scores[accuracy,precision,recall,f1-measure]:
+s--0.408602150538,0.0812182741117,0.842105263158,0.148148148148
+scoresWa[accuracy,precision,recall,f1-measure]:
+sw--0.408602150538,0.0812182741117,0.842105263158,0.148148148148
+-------------------------------------------------------
+test set range:[2010-2015]-test_total:1330
+test matrix shape:(1330, 9038)
+objects with labels: (1330, 19)
+labels predicted shape:(1330, 19)
+labels predicted shape:(1330, 19)
+scores[accuracy,precision,recall,f1-measure]:
+s--0.432330827068,0.0767386091127,0.831168831169,0.140504939627
+scoresWa[accuracy,precision,recall,f1-measure]:
+sw--0.432330827068,0.0767386091127,0.831168831169,0.140504939627
+-------------------------------------------------------
+0:00:13.267014
+===========================================================
+current_year:2010-train_total:255
+training matrix shape:(255, 24992)
+objects with labels: (255, 29) - number of categories: 29
+year:2010-train:162 w:1
+year:2009-train:93 w:0.666666666667
+size of weights array:255
+test set range:[2011-2011]-test_total:132
+test matrix shape:(132, 24992)
+objects with labels: (132, 29)
+labels predicted shape:(132, 29)
+labels predicted shape:(132, 29)
+scores[accuracy,precision,recall,f1-measure]:
+s--0.431818181818,0.281553398058,0.90625,0.42962962963
+scoresWa[accuracy,precision,recall,f1-measure]:
+sw--0.416666666667,0.26213592233,0.931034482759,0.409090909091
+-------------------------------------------------------
+test set range:[2011-2012]-test_total:333
+test matrix shape:(333, 24992)
+objects with labels: (333, 29)
+labels predicted shape:(333, 29)
+labels predicted shape:(333, 29)
+scores[accuracy,precision,recall,f1-measure]:
+s--0.471471471471,0.248908296943,0.850746268657,0.385135135135
+scoresWa[accuracy,precision,recall,f1-measure]:
+sw--0.444444444444,0.205240174672,0.854545454545,0.330985915493
+-------------------------------------------------------
+test set range:[2011-2013]-test_total:649
+test matrix shape:(649, 24992)
+objects with labels: (649, 29)
+labels predicted shape:(649, 29)
+labels predicted shape:(649, 29)
+scores[accuracy,precision,recall,f1-measure]:
+s--0.456086286595,0.197183098592,0.823529411765,0.318181818182
+scoresWa[accuracy,precision,recall,f1-measure]:
+sw--0.440677966102,0.166666666667,0.835294117647,0.277886497065
+-------------------------------------------------------
+test set range:[2011-2014]-test_total:1047
+test matrix shape:(1047, 24992)
+objects with labels: (1047, 29)
+labels predicted shape:(1047, 29)
+labels predicted shape:(1047, 29)
+scores[accuracy,precision,recall,f1-measure]:
+s--0.466093600764,0.158054711246,0.77037037037,0.262295081967
+scoresWa[accuracy,precision,recall,f1-measure]:
+sw--0.454632282713,0.133738601824,0.778761061947,0.228274967575
+-------------------------------------------------------
+test set range:[2011-2015]-test_total:1168
+test matrix shape:(1168, 24992)
+objects with labels: (1168, 29)
+labels predicted shape:(1168, 29)
+labels predicted shape:(1168, 29)
+scores[accuracy,precision,recall,f1-measure]:
+s--0.487157534247,0.150568181818,0.757142857143,0.251184834123
+scoresWa[accuracy,precision,recall,f1-measure]:
+sw--0.477739726027,0.127840909091,0.769230769231,0.219244823386
+-------------------------------------------------------
+0:00:40.343360
+===========================================================
+current_year:2011-train_total:387
+training matrix shape:(387, 34366)
+objects with labels: (387, 34) - number of categories: 34
+year:2011-train:132 w:1
+year:2010-train:162 w:0.666666666667
+year:2009-train:93 w:0.444444444444
+size of weights array:387
+test set range:[2012-2012]-test_total:201
+test matrix shape:(201, 34366)
+objects with labels: (201, 34)
+labels predicted shape:(201, 34)
+labels predicted shape:(201, 34)
+scores[accuracy,precision,recall,f1-measure]:
+s--0.437810945274,0.314102564103,0.844827586207,0.457943925234
+scoresWa[accuracy,precision,recall,f1-measure]:
+sw--0.363184079602,0.192307692308,0.882352941176,0.315789473684
+-------------------------------------------------------
+test set range:[2012-2013]-test_total:517
+test matrix shape:(517, 34366)
+objects with labels: (517, 34)
+labels predicted shape:(517, 34)
+labels predicted shape:(517, 34)
+scores[accuracy,precision,recall,f1-measure]:
+s--0.454545454545,0.265363128492,0.772357723577,0.39501039501
+scoresWa[accuracy,precision,recall,f1-measure]:
+sw--0.41586073501,0.175977653631,0.86301369863,0.292343387471
+-------------------------------------------------------
+test set range:[2012-2014]-test_total:915
+test matrix shape:(915, 34366)
+objects with labels: (915, 34)
+labels predicted shape:(915, 34)
+labels predicted shape:(915, 34)
+scores[accuracy,precision,recall,f1-measure]:
+s--0.425136612022,0.231839258114,0.700934579439,0.348432055749
+scoresWa[accuracy,precision,recall,f1-measure]:
+sw--0.393442622951,0.151468315301,0.784,0.253886010363
+-------------------------------------------------------
+test set range:[2012-2015]-test_total:1036
+test matrix shape:(1036, 34366)
+objects with labels: (1036, 34)
+labels predicted shape:(1036, 34)
+labels predicted shape:(1036, 34)
+scores[accuracy,precision,recall,f1-measure]:
+s--0.453667953668,0.233766233766,0.675,0.347266881029
+scoresWa[accuracy,precision,recall,f1-measure]:
+sw--0.425675675676,0.154401154401,0.743055555556,0.255675029869
+-------------------------------------------------------
+0:01:12.043407
+===========================================================
+current_year:2012-train_total:588
+training matrix shape:(588, 52334)
+objects with labels: (588, 36) - number of categories: 36
+year:2012-train:201 w:1
+year:2011-train:132 w:0.666666666667
+year:2010-train:162 w:0.444444444444
+year:2009-train:93 w:0.296296296296
+size of weights array:588
+test set range:[2013-2013]-test_total:316
+test matrix shape:(316, 52334)
+objects with labels: (316, 36)
+labels predicted shape:(316, 36)
+labels predicted shape:(316, 36)
+scores[accuracy,precision,recall,f1-measure]:
+s--0.45253164557,0.356589147287,0.8,0.493297587131
+scoresWa[accuracy,precision,recall,f1-measure]:
+sw--0.373417721519,0.248062015504,0.810126582278,0.379821958457
+-------------------------------------------------------
+test set range:[2013-2014]-test_total:714
+test matrix shape:(714, 52334)
+objects with labels: (714, 36)
+labels predicted shape:(714, 36)
+labels predicted shape:(714, 36)
+scores[accuracy,precision,recall,f1-measure]:
+s--0.483193277311,0.367458866545,0.767175572519,0.496909765142
+scoresWa[accuracy,precision,recall,f1-measure]:
+sw--0.40756302521,0.252285191956,0.754098360656,0.378082191781
+-------------------------------------------------------
+test set range:[2013-2015]-test_total:835
+test matrix shape:(835, 52334)
+objects with labels: (835, 36)
+labels predicted shape:(835, 36)
+labels predicted shape:(835, 36)
+scores[accuracy,precision,recall,f1-measure]:
+s--0.498203592814,0.370994940978,0.711974110032,0.487804878049
+scoresWa[accuracy,precision,recall,f1-measure]:
+sw--0.437125748503,0.263069139966,0.693333333333,0.38141809291
+-------------------------------------------------------
+0:01:47.904960
+===========================================================
+current_year:2013-train_total:904
+training matrix shape:(904, 82747)
+objects with labels: (904, 42) - number of categories: 42
+year:2013-train:316 w:1
+year:2012-train:201 w:0.666666666667
+year:2011-train:132 w:0.444444444444
+year:2010-train:162 w:0.296296296296
+year:2009-train:93 w:0.197530864198
+size of weights array:904
+test set range:[2014-2014]-test_total:398
+test matrix shape:(398, 82747)
+objects with labels: (398, 42)
+labels predicted shape:(398, 42)
+labels predicted shape:(398, 42)
+scores[accuracy,precision,recall,f1-measure]:
+s--0.356783919598,0.320895522388,0.732954545455,0.446366782007
+scoresWa[accuracy,precision,recall,f1-measure]:
+sw--0.336683417085,0.298507462687,0.714285714286,0.421052631579
+-------------------------------------------------------
+test set range:[2014-2015]-test_total:519
+test matrix shape:(519, 82747)
+objects with labels: (519, 42)
+labels predicted shape:(519, 42)
+labels predicted shape:(519, 42)
+scores[accuracy,precision,recall,f1-measure]:
+s--0.398843930636,0.323974082073,0.660792951542,0.434782608696
+scoresWa[accuracy,precision,recall,f1-measure]:
+sw--0.371868978805,0.306695464363,0.625550660793,0.411594202899
+-------------------------------------------------------
+0:02:29.929803
+===========================================================
+current_year:2014-train_total:1302
+training matrix shape:(1302, 147275)
+objects with labels: (1302, 55) - number of categories: 55
+year:2014-train:398 w:1
+year:2013-train:316 w:0.666666666667
+year:2012-train:201 w:0.444444444444
+year:2011-train:132 w:0.296296296296
+year:2010-train:162 w:0.197530864198
+year:2009-train:93 w:0.131687242798
+size of weights array:1302
+test set range:[2015-2015]-test_total:121
+test matrix shape:(121, 147275)
+objects with labels: (121, 55)
+labels predicted shape:(121, 55)
+labels predicted shape:(121, 55)
+scores[accuracy,precision,recall,f1-measure]:
+s--0.305785123967,0.305970149254,0.640625,0.414141414141
+scoresWa[accuracy,precision,recall,f1-measure]:
+sw--0.256198347107,0.261194029851,0.538461538462,0.35175879397
+-------------------------------------------------------
+0:03:30.046906
+===========================================================
+Total time:0:03:31.303696
