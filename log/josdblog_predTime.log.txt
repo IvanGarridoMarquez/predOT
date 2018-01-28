@@ -10,6 +10,7 @@ test matrix shape:(34, 3204)
 objects with labels: (34, 17)
 labels predicted shape:(34, 17)
 labels predicted shape:(34, 17)
+['Applications', 'Commandes', 'Cours', 'DLink', 'Galeres', 'Generalitees', 'Indispensable', 'LaTeX', 'Logiciels', 'Questions Reseau', 'Reflexions', 'Synology', 'Systeme', 'TALN', 'UPNP-DNLA', 'Windows (OS)', 'Windows Mobile']
 scores[accuracy,precision,recall,f1-measure]:
 s--0.176470588235,0.0217391304348,1.0,0.0425531914894
 scoresWa[accuracy,precision,recall,f1-measure]:
@@ -20,6 +21,7 @@ test matrix shape:(49, 3204)
 objects with labels: (49, 17)
 labels predicted shape:(49, 17)
 labels predicted shape:(49, 17)
+['Applications', 'Commandes', 'Cours', 'DLink', 'Galeres', 'Generalitees', 'Indispensable', 'LaTeX', 'Logiciels', 'Questions Reseau', 'Reflexions', 'Synology', 'Systeme', 'TALN', 'UPNP-DNLA', 'Windows (OS)', 'Windows Mobile']
 scores[accuracy,precision,recall,f1-measure]:
 s--0.163265306122,0.0289855072464,1.0,0.056338028169
 scoresWa[accuracy,precision,recall,f1-measure]:
@@ -30,6 +32,7 @@ test matrix shape:(55, 3204)
 objects with labels: (55, 17)
 labels predicted shape:(55, 17)
 labels predicted shape:(55, 17)
+['Applications', 'Commandes', 'Cours', 'DLink', 'Galeres', 'Generalitees', 'Indispensable', 'LaTeX', 'Logiciels', 'Questions Reseau', 'Reflexions', 'Synology', 'Systeme', 'TALN', 'UPNP-DNLA', 'Windows (OS)', 'Windows Mobile']
 scores[accuracy,precision,recall,f1-measure]:
 s--0.145454545455,0.025641025641,1.0,0.05
 scoresWa[accuracy,precision,recall,f1-measure]:
@@ -40,6 +43,7 @@ test matrix shape:(64, 3204)
 objects with labels: (64, 17)
 labels predicted shape:(64, 17)
 labels predicted shape:(64, 17)
+['Applications', 'Commandes', 'Cours', 'DLink', 'Galeres', 'Generalitees', 'Indispensable', 'LaTeX', 'Logiciels', 'Questions Reseau', 'Reflexions', 'Synology', 'Systeme', 'TALN', 'UPNP-DNLA', 'Windows (OS)', 'Windows Mobile']
 scores[accuracy,precision,recall,f1-measure]:
 s--0.203125,0.0235294117647,1.0,0.0459770114943
 scoresWa[accuracy,precision,recall,f1-measure]:
@@ -50,6 +54,7 @@ test matrix shape:(113, 3204)
 objects with labels: (113, 17)
 labels predicted shape:(113, 17)
 labels predicted shape:(113, 17)
+['Applications', 'Commandes', 'Cours', 'DLink', 'Galeres', 'Generalitees', 'Indispensable', 'LaTeX', 'Logiciels', 'Questions Reseau', 'Reflexions', 'Synology', 'Systeme', 'TALN', 'UPNP-DNLA', 'Windows (OS)', 'Windows Mobile']
 scores[accuracy,precision,recall,f1-measure]:
 s--0.362831858407,0.0178571428571,1.0,0.0350877192982
 scoresWa[accuracy,precision,recall,f1-measure]:
@@ -60,6 +65,7 @@ test matrix shape:(160, 3204)
 objects with labels: (160, 17)
 labels predicted shape:(160, 17)
 labels predicted shape:(160, 17)
+['Applications', 'Commandes', 'Cours', 'DLink', 'Galeres', 'Generalitees', 'Indispensable', 'LaTeX', 'Logiciels', 'Questions Reseau', 'Reflexions', 'Synology', 'Systeme', 'TALN', 'UPNP-DNLA', 'Windows (OS)', 'Windows Mobile']
 scores[accuracy,precision,recall,f1-measure]:
 s--0.38125,0.013698630137,1.0,0.027027027027
 scoresWa[accuracy,precision,recall,f1-measure]:
@@ -70,6 +76,7 @@ test matrix shape:(187, 3204)
 objects with labels: (187, 17)
 labels predicted shape:(187, 17)
 labels predicted shape:(187, 17)
+['Applications', 'Commandes', 'Cours', 'DLink', 'Galeres', 'Generalitees', 'Indispensable', 'LaTeX', 'Logiciels', 'Questions Reseau', 'Reflexions', 'Synology', 'Systeme', 'TALN', 'UPNP-DNLA', 'Windows (OS)', 'Windows Mobile']
 scores[accuracy,precision,recall,f1-measure]:
 s--0.422459893048,0.0127388535032,1.0,0.0251572327044
 scoresWa[accuracy,precision,recall,f1-measure]:
@@ -80,12 +87,13 @@ test matrix shape:(198, 3204)
 objects with labels: (198, 17)
 labels predicted shape:(198, 17)
 labels predicted shape:(198, 17)
+['Applications', 'Commandes', 'Cours', 'DLink', 'Galeres', 'Generalitees', 'Indispensable', 'LaTeX', 'Logiciels', 'Questions Reseau', 'Reflexions', 'Synology', 'Systeme', 'TALN', 'UPNP-DNLA', 'Windows (OS)', 'Windows Mobile']
 scores[accuracy,precision,recall,f1-measure]:
 s--0.454545454545,0.0127388535032,1.0,0.0251572327044
 scoresWa[accuracy,precision,recall,f1-measure]:
 sw--0.454545454545,0.0127388535032,1.0,0.0251572327044
 -------------------------------------------------------
-0:00:01.071113
+0:00:01.746966
 ===========================================================
 current_year:2008-train_total:79
 training matrix shape:(79, 5374)
@@ -98,6 +106,7 @@ test matrix shape:(15, 5374)
 objects with labels: (15, 22)
 labels predicted shape:(15, 22)
 labels predicted shape:(15, 22)
+['Applications', 'Carto & GPS', 'Commandes', 'Cours', 'DLink', 'Eclipse', 'FreeBox', 'Galeres', 'Generalitees', 'Indispensable', 'LaTeX', 'Logiciels', 'Photo & Video', 'Questions Reseau', 'Reflexions', 'Synology', 'Systeme', 'TALN', 'UIMA', 'UPNP-DNLA', 'Windows (OS)', 'Windows Mobile']
 scores[accuracy,precision,recall,f1-measure]:
 s--0.0666666666667,0.04,1.0,0.0769230769231
 scoresWa[accuracy,precision,recall,f1-measure]:
@@ -108,6 +117,7 @@ test matrix shape:(21, 5374)
 objects with labels: (21, 22)
 labels predicted shape:(21, 22)
 labels predicted shape:(21, 22)
+['Applications', 'Carto & GPS', 'Commandes', 'Cours', 'DLink', 'Eclipse', 'FreeBox', 'Galeres', 'Generalitees', 'Indispensable', 'LaTeX', 'Logiciels', 'Photo & Video', 'Questions Reseau', 'Reflexions', 'Synology', 'Systeme', 'TALN', 'UIMA', 'UPNP-DNLA', 'Windows (OS)', 'Windows Mobile']
 scores[accuracy,precision,recall,f1-measure]:
 s--0.047619047619,0.0285714285714,1.0,0.0555555555556
 scoresWa[accuracy,precision,recall,f1-measure]:
@@ -118,6 +128,7 @@ test matrix shape:(30, 5374)
 objects with labels: (30, 22)
 labels predicted shape:(30, 22)
 labels predicted shape:(30, 22)
+['Applications', 'Carto & GPS', 'Commandes', 'Cours', 'DLink', 'Eclipse', 'FreeBox', 'Galeres', 'Generalitees', 'Indispensable', 'LaTeX', 'Logiciels', 'Photo & Video', 'Questions Reseau', 'Reflexions', 'Synology', 'Systeme', 'TALN', 'UIMA', 'UPNP-DNLA', 'Windows (OS)', 'Windows Mobile']
 scores[accuracy,precision,recall,f1-measure]:
 s--0.133333333333,0.0652173913043,1.0,0.122448979592
 scoresWa[accuracy,precision,recall,f1-measure]:
@@ -128,6 +139,7 @@ test matrix shape:(79, 5374)
 objects with labels: (79, 22)
 labels predicted shape:(79, 22)
 labels predicted shape:(79, 22)
+['Applications', 'Carto & GPS', 'Commandes', 'Cours', 'DLink', 'Eclipse', 'FreeBox', 'Galeres', 'Generalitees', 'Indispensable', 'LaTeX', 'Logiciels', 'Photo & Video', 'Questions Reseau', 'Reflexions', 'Synology', 'Systeme', 'TALN', 'UIMA', 'UPNP-DNLA', 'Windows (OS)', 'Windows Mobile']
 scores[accuracy,precision,recall,f1-measure]:
 s--0.329113924051,0.111111111111,1.0,0.2
 scoresWa[accuracy,precision,recall,f1-measure]:
@@ -138,6 +150,7 @@ test matrix shape:(126, 5374)
 objects with labels: (126, 22)
 labels predicted shape:(126, 22)
 labels predicted shape:(126, 22)
+['Applications', 'Carto & GPS', 'Commandes', 'Cours', 'DLink', 'Eclipse', 'FreeBox', 'Galeres', 'Generalitees', 'Indispensable', 'LaTeX', 'Logiciels', 'Photo & Video', 'Questions Reseau', 'Reflexions', 'Synology', 'Systeme', 'TALN', 'UIMA', 'UPNP-DNLA', 'Windows (OS)', 'Windows Mobile']
 scores[accuracy,precision,recall,f1-measure]:
 s--0.349206349206,0.077519379845,1.0,0.143884892086
 scoresWa[accuracy,precision,recall,f1-measure]:
@@ -148,6 +161,7 @@ test matrix shape:(153, 5374)
 objects with labels: (153, 22)
 labels predicted shape:(153, 22)
 labels predicted shape:(153, 22)
+['Applications', 'Carto & GPS', 'Commandes', 'Cours', 'DLink', 'Eclipse', 'FreeBox', 'Galeres', 'Generalitees', 'Indispensable', 'LaTeX', 'Logiciels', 'Photo & Video', 'Questions Reseau', 'Reflexions', 'Synology', 'Systeme', 'TALN', 'UIMA', 'UPNP-DNLA', 'Windows (OS)', 'Windows Mobile']
 scores[accuracy,precision,recall,f1-measure]:
 s--0.40522875817,0.0714285714286,1.0,0.133333333333
 scoresWa[accuracy,precision,recall,f1-measure]:
@@ -158,12 +172,13 @@ test matrix shape:(164, 5374)
 objects with labels: (164, 22)
 labels predicted shape:(164, 22)
 labels predicted shape:(164, 22)
+['Applications', 'Carto & GPS', 'Commandes', 'Cours', 'DLink', 'Eclipse', 'FreeBox', 'Galeres', 'Generalitees', 'Indispensable', 'LaTeX', 'Logiciels', 'Photo & Video', 'Questions Reseau', 'Reflexions', 'Synology', 'Systeme', 'TALN', 'UIMA', 'UPNP-DNLA', 'Windows (OS)', 'Windows Mobile']
 scores[accuracy,precision,recall,f1-measure]:
 s--0.44512195122,0.0714285714286,1.0,0.133333333333
 scoresWa[accuracy,precision,recall,f1-measure]:
 sw--0.432926829268,0.05,1.0,0.0952380952381
 -------------------------------------------------------
-0:00:02.464507
+0:00:05.063204
 ===========================================================
 current_year:2009-train_total:94
 training matrix shape:(94, 6879)
@@ -177,6 +192,7 @@ test matrix shape:(6, 6879)
 objects with labels: (6, 23)
 labels predicted shape:(6, 23)
 labels predicted shape:(6, 23)
+['Applications', 'Carto & GPS', 'Commandes', 'Cours', 'DLink', 'Eclipse', 'FreeBox', 'Galeres', 'Generalitees', 'Indispensable', 'LaTeX', 'Livres', 'Logiciels', 'Photo & Video', 'Questions Reseau', 'Reflexions', 'Synology', 'Systeme', 'TALN', 'UIMA', 'UPNP-DNLA', 'Windows (OS)', 'Windows Mobile']
 scores[accuracy,precision,recall,f1-measure]:
 s--0.0,0.0,0.0,0.0
 scoresWa[accuracy,precision,recall,f1-measure]:
@@ -187,6 +203,7 @@ test matrix shape:(15, 6879)
 objects with labels: (15, 23)
 labels predicted shape:(15, 23)
 labels predicted shape:(15, 23)
+['Applications', 'Carto & GPS', 'Commandes', 'Cours', 'DLink', 'Eclipse', 'FreeBox', 'Galeres', 'Generalitees', 'Indispensable', 'LaTeX', 'Livres', 'Logiciels', 'Photo & Video', 'Questions Reseau', 'Reflexions', 'Synology', 'Systeme', 'TALN', 'UIMA', 'UPNP-DNLA', 'Windows (OS)', 'Windows Mobile']
 scores[accuracy,precision,recall,f1-measure]:
 s--0.2,0.0952380952381,1.0,0.173913043478
 scoresWa[accuracy,precision,recall,f1-measure]:
@@ -197,6 +214,7 @@ test matrix shape:(64, 6879)
 objects with labels: (64, 23)
 labels predicted shape:(64, 23)
 labels predicted shape:(64, 23)
+['Applications', 'Carto & GPS', 'Commandes', 'Cours', 'DLink', 'Eclipse', 'FreeBox', 'Galeres', 'Generalitees', 'Indispensable', 'LaTeX', 'Livres', 'Logiciels', 'Photo & Video', 'Questions Reseau', 'Reflexions', 'Synology', 'Systeme', 'TALN', 'UIMA', 'UPNP-DNLA', 'Windows (OS)', 'Windows Mobile']
 scores[accuracy,precision,recall,f1-measure]:
 s--0.375,0.123076923077,1.0,0.219178082192
 scoresWa[accuracy,precision,recall,f1-measure]:
@@ -207,6 +225,7 @@ test matrix shape:(111, 6879)
 objects with labels: (111, 23)
 labels predicted shape:(111, 23)
 labels predicted shape:(111, 23)
+['Applications', 'Carto & GPS', 'Commandes', 'Cours', 'DLink', 'Eclipse', 'FreeBox', 'Galeres', 'Generalitees', 'Indispensable', 'LaTeX', 'Livres', 'Logiciels', 'Photo & Video', 'Questions Reseau', 'Reflexions', 'Synology', 'Systeme', 'TALN', 'UIMA', 'UPNP-DNLA', 'Windows (OS)', 'Windows Mobile']
 scores[accuracy,precision,recall,f1-measure]:
 s--0.378378378378,0.0769230769231,1.0,0.142857142857
 scoresWa[accuracy,precision,recall,f1-measure]:
@@ -217,6 +236,7 @@ test matrix shape:(138, 6879)
 objects with labels: (138, 23)
 labels predicted shape:(138, 23)
 labels predicted shape:(138, 23)
+['Applications', 'Carto & GPS', 'Commandes', 'Cours', 'DLink', 'Eclipse', 'FreeBox', 'Galeres', 'Generalitees', 'Indispensable', 'LaTeX', 'Livres', 'Logiciels', 'Photo & Video', 'Questions Reseau', 'Reflexions', 'Synology', 'Systeme', 'TALN', 'UIMA', 'UPNP-DNLA', 'Windows (OS)', 'Windows Mobile']
 scores[accuracy,precision,recall,f1-measure]:
 s--0.434782608696,0.0695652173913,1.0,0.130081300813
 scoresWa[accuracy,precision,recall,f1-measure]:
@@ -227,12 +247,13 @@ test matrix shape:(149, 6879)
 objects with labels: (149, 23)
 labels predicted shape:(149, 23)
 labels predicted shape:(149, 23)
+['Applications', 'Carto & GPS', 'Commandes', 'Cours', 'DLink', 'Eclipse', 'FreeBox', 'Galeres', 'Generalitees', 'Indispensable', 'LaTeX', 'Livres', 'Logiciels', 'Photo & Video', 'Questions Reseau', 'Reflexions', 'Synology', 'Systeme', 'TALN', 'UIMA', 'UPNP-DNLA', 'Windows (OS)', 'Windows Mobile']
 scores[accuracy,precision,recall,f1-measure]:
 s--0.476510067114,0.0695652173913,1.0,0.130081300813
 scoresWa[accuracy,precision,recall,f1-measure]:
 sw--0.456375838926,0.0173913043478,1.0,0.034188034188
 -------------------------------------------------------
-0:00:04.003107
+0:00:09.501000
 ===========================================================
 current_year:2010-train_total:100
 training matrix shape:(100, 7290)
@@ -247,6 +268,7 @@ test matrix shape:(9, 7290)
 objects with labels: (9, 23)
 labels predicted shape:(9, 23)
 labels predicted shape:(9, 23)
+['Applications', 'Carto & GPS', 'Commandes', 'Cours', 'DLink', 'Eclipse', 'FreeBox', 'Galeres', 'Generalitees', 'Indispensable', 'LaTeX', 'Livres', 'Logiciels', 'Photo & Video', 'Questions Reseau', 'Reflexions', 'Synology', 'Systeme', 'TALN', 'UIMA', 'UPNP-DNLA', 'Windows (OS)', 'Windows Mobile']
 scores[accuracy,precision,recall,f1-measure]:
 s--0.333333333333,0.181818181818,1.0,0.307692307692
 scoresWa[accuracy,precision,recall,f1-measure]:
@@ -257,6 +279,7 @@ test matrix shape:(58, 7290)
 objects with labels: (58, 23)
 labels predicted shape:(58, 23)
 labels predicted shape:(58, 23)
+['Applications', 'Carto & GPS', 'Commandes', 'Cours', 'DLink', 'Eclipse', 'FreeBox', 'Galeres', 'Generalitees', 'Indispensable', 'LaTeX', 'Livres', 'Logiciels', 'Photo & Video', 'Questions Reseau', 'Reflexions', 'Synology', 'Systeme', 'TALN', 'UIMA', 'UPNP-DNLA', 'Windows (OS)', 'Windows Mobile']
 scores[accuracy,precision,recall,f1-measure]:
 s--0.413793103448,0.145454545455,1.0,0.253968253968
 scoresWa[accuracy,precision,recall,f1-measure]:
@@ -267,6 +290,7 @@ test matrix shape:(105, 7290)
 objects with labels: (105, 23)
 labels predicted shape:(105, 23)
 labels predicted shape:(105, 23)
+['Applications', 'Carto & GPS', 'Commandes', 'Cours', 'DLink', 'Eclipse', 'FreeBox', 'Galeres', 'Generalitees', 'Indispensable', 'LaTeX', 'Livres', 'Logiciels', 'Photo & Video', 'Questions Reseau', 'Reflexions', 'Synology', 'Systeme', 'TALN', 'UIMA', 'UPNP-DNLA', 'Windows (OS)', 'Windows Mobile']
 scores[accuracy,precision,recall,f1-measure]:
 s--0.4,0.0851063829787,1.0,0.156862745098
 scoresWa[accuracy,precision,recall,f1-measure]:
@@ -277,6 +301,7 @@ test matrix shape:(132, 7290)
 objects with labels: (132, 23)
 labels predicted shape:(132, 23)
 labels predicted shape:(132, 23)
+['Applications', 'Carto & GPS', 'Commandes', 'Cours', 'DLink', 'Eclipse', 'FreeBox', 'Galeres', 'Generalitees', 'Indispensable', 'LaTeX', 'Livres', 'Logiciels', 'Photo & Video', 'Questions Reseau', 'Reflexions', 'Synology', 'Systeme', 'TALN', 'UIMA', 'UPNP-DNLA', 'Windows (OS)', 'Windows Mobile']
 scores[accuracy,precision,recall,f1-measure]:
 s--0.454545454545,0.0761904761905,1.0,0.141592920354
 scoresWa[accuracy,precision,recall,f1-measure]:
@@ -287,12 +312,13 @@ test matrix shape:(143, 7290)
 objects with labels: (143, 23)
 labels predicted shape:(143, 23)
 labels predicted shape:(143, 23)
+['Applications', 'Carto & GPS', 'Commandes', 'Cours', 'DLink', 'Eclipse', 'FreeBox', 'Galeres', 'Generalitees', 'Indispensable', 'LaTeX', 'Livres', 'Logiciels', 'Photo & Video', 'Questions Reseau', 'Reflexions', 'Synology', 'Systeme', 'TALN', 'UIMA', 'UPNP-DNLA', 'Windows (OS)', 'Windows Mobile']
 scores[accuracy,precision,recall,f1-measure]:
 s--0.496503496503,0.0761904761905,1.0,0.141592920354
 scoresWa[accuracy,precision,recall,f1-measure]:
 sw--0.461538461538,0.0,0.0,0.0
 -------------------------------------------------------
-0:00:05.536191
+0:00:14.337855
 ===========================================================
 current_year:2011-train_total:109
 training matrix shape:(109, 8038)
@@ -308,6 +334,7 @@ test matrix shape:(49, 8038)
 objects with labels: (49, 24)
 labels predicted shape:(49, 24)
 labels predicted shape:(49, 24)
+['Applications', 'Carto & GPS', 'Commandes', 'Cours', 'DLink', 'Eclipse', 'FreeBox', 'Galeres', 'Generalitees', 'Indispensable', 'LaTeX', 'Livres', 'Logiciels', 'Photo & Video', 'Questions Reseau', 'Reflexions', 'Synology', 'Systeme', 'TALN', 'UIMA', 'UPNP-DNLA', 'Windows (OS)', 'Windows Mobile', 'WordPress']
 scores[accuracy,precision,recall,f1-measure]:
 s--0.448979591837,0.155555555556,1.0,0.269230769231
 scoresWa[accuracy,precision,recall,f1-measure]:
@@ -318,6 +345,7 @@ test matrix shape:(96, 8038)
 objects with labels: (96, 24)
 labels predicted shape:(96, 24)
 labels predicted shape:(96, 24)
+['Applications', 'Carto & GPS', 'Commandes', 'Cours', 'DLink', 'Eclipse', 'FreeBox', 'Galeres', 'Generalitees', 'Indispensable', 'LaTeX', 'Livres', 'Logiciels', 'Photo & Video', 'Questions Reseau', 'Reflexions', 'Synology', 'Systeme', 'TALN', 'UIMA', 'UPNP-DNLA', 'Windows (OS)', 'Windows Mobile', 'WordPress']
 scores[accuracy,precision,recall,f1-measure]:
 s--0.427083333333,0.0941176470588,1.0,0.172043010753
 scoresWa[accuracy,precision,recall,f1-measure]:
@@ -328,6 +356,7 @@ test matrix shape:(123, 8038)
 objects with labels: (123, 24)
 labels predicted shape:(123, 24)
 labels predicted shape:(123, 24)
+['Applications', 'Carto & GPS', 'Commandes', 'Cours', 'DLink', 'Eclipse', 'FreeBox', 'Galeres', 'Generalitees', 'Indispensable', 'LaTeX', 'Livres', 'Logiciels', 'Photo & Video', 'Questions Reseau', 'Reflexions', 'Synology', 'Systeme', 'TALN', 'UIMA', 'UPNP-DNLA', 'Windows (OS)', 'Windows Mobile', 'WordPress']
 scores[accuracy,precision,recall,f1-measure]:
 s--0.479674796748,0.0833333333333,1.0,0.153846153846
 scoresWa[accuracy,precision,recall,f1-measure]:
@@ -338,12 +367,13 @@ test matrix shape:(134, 8038)
 objects with labels: (134, 24)
 labels predicted shape:(134, 24)
 labels predicted shape:(134, 24)
+['Applications', 'Carto & GPS', 'Commandes', 'Cours', 'DLink', 'Eclipse', 'FreeBox', 'Galeres', 'Generalitees', 'Indispensable', 'LaTeX', 'Livres', 'Logiciels', 'Photo & Video', 'Questions Reseau', 'Reflexions', 'Synology', 'Systeme', 'TALN', 'UIMA', 'UPNP-DNLA', 'Windows (OS)', 'Windows Mobile', 'WordPress']
 scores[accuracy,precision,recall,f1-measure]:
 s--0.522388059701,0.0833333333333,1.0,0.153846153846
 scoresWa[accuracy,precision,recall,f1-measure]:
 sw--0.485074626866,0.0,0.0,0.0
 -------------------------------------------------------
-0:00:07.128381
+0:00:19.872445
 ===========================================================
 current_year:2012-train_total:158
 training matrix shape:(158, 15080)
@@ -360,6 +390,7 @@ test matrix shape:(47, 15080)
 objects with labels: (47, 27)
 labels predicted shape:(47, 27)
 labels predicted shape:(47, 27)
+['Android', 'Applications', 'Cablage de prises', 'Carto & GPS', 'Commandes', 'Cours', 'DLink', 'Eclipse', 'FreeBox', 'Galeres', 'Generalitees', 'Indispensable', 'LaTeX', 'Livres', 'Location', 'Logiciels', 'Photo & Video', 'Questions Reseau', 'Reflexions', 'Synology', 'Systeme', 'TALN', 'UIMA', 'UPNP-DNLA', 'Windows (OS)', 'Windows Mobile', 'WordPress']
 scores[accuracy,precision,recall,f1-measure]:
 s--0.489361702128,0.15,1.0,0.260869565217
 scoresWa[accuracy,precision,recall,f1-measure]:
@@ -370,6 +401,7 @@ test matrix shape:(74, 15080)
 objects with labels: (74, 27)
 labels predicted shape:(74, 27)
 labels predicted shape:(74, 27)
+['Android', 'Applications', 'Cablage de prises', 'Carto & GPS', 'Commandes', 'Cours', 'DLink', 'Eclipse', 'FreeBox', 'Galeres', 'Generalitees', 'Indispensable', 'LaTeX', 'Livres', 'Location', 'Logiciels', 'Photo & Video', 'Questions Reseau', 'Reflexions', 'Synology', 'Systeme', 'TALN', 'UIMA', 'UPNP-DNLA', 'Windows (OS)', 'Windows Mobile', 'WordPress']
 scores[accuracy,precision,recall,f1-measure]:
 s--0.540540540541,0.115384615385,1.0,0.206896551724
 scoresWa[accuracy,precision,recall,f1-measure]:
@@ -380,12 +412,13 @@ test matrix shape:(85, 15080)
 objects with labels: (85, 27)
 labels predicted shape:(85, 27)
 labels predicted shape:(85, 27)
+['Android', 'Applications', 'Cablage de prises', 'Carto & GPS', 'Commandes', 'Cours', 'DLink', 'Eclipse', 'FreeBox', 'Galeres', 'Generalitees', 'Indispensable', 'LaTeX', 'Livres', 'Location', 'Logiciels', 'Photo & Video', 'Questions Reseau', 'Reflexions', 'Synology', 'Systeme', 'TALN', 'UIMA', 'UPNP-DNLA', 'Windows (OS)', 'Windows Mobile', 'WordPress']
 scores[accuracy,precision,recall,f1-measure]:
 s--0.6,0.115384615385,1.0,0.206896551724
 scoresWa[accuracy,precision,recall,f1-measure]:
 sw--0.541176470588,0.0,0.0,0.0
 -------------------------------------------------------
-0:00:09.198271
+0:00:32.479250
 ===========================================================
 current_year:2013-train_total:205
 training matrix shape:(205, 26579)
@@ -403,6 +436,7 @@ test matrix shape:(27, 26579)
 objects with labels: (27, 33)
 labels predicted shape:(27, 33)
 labels predicted shape:(27, 33)
+['Android', 'Applications', 'Bricolage', 'Cablage de prises', 'Carto & GPS', 'Commandes', 'Controleurs', 'Cours', 'DLink', 'Domotique', 'Eclipse', 'FreeBox', 'Galeres', 'Generalitees', 'Indispensable', 'LaTeX', 'Livres', 'Location', 'Logiciels', 'Modules', 'Photo & Video', 'Questions Reseau', 'Reflexions', 'Surveillance', 'Synology', 'Systeme', 'TALN', 'Tutoriels', 'UIMA', 'UPNP-DNLA', 'Windows (OS)', 'Windows Mobile', 'WordPress']
 scores[accuracy,precision,recall,f1-measure]:
 s--0.0,0.305084745763,0.9,0.455696202532
 scoresWa[accuracy,precision,recall,f1-measure]:
@@ -413,12 +447,13 @@ test matrix shape:(38, 26579)
 objects with labels: (38, 33)
 labels predicted shape:(38, 33)
 labels predicted shape:(38, 33)
+['Android', 'Applications', 'Bricolage', 'Cablage de prises', 'Carto & GPS', 'Commandes', 'Controleurs', 'Cours', 'DLink', 'Domotique', 'Eclipse', 'FreeBox', 'Galeres', 'Generalitees', 'Indispensable', 'LaTeX', 'Livres', 'Location', 'Logiciels', 'Modules', 'Photo & Video', 'Questions Reseau', 'Reflexions', 'Surveillance', 'Synology', 'Systeme', 'TALN', 'Tutoriels', 'UIMA', 'UPNP-DNLA', 'Windows (OS)', 'Windows Mobile', 'WordPress']
 scores[accuracy,precision,recall,f1-measure]:
 s--0.0,0.280487804878,0.884615384615,0.425925925926
 scoresWa[accuracy,precision,recall,f1-measure]:
 sw--0.0,0.0975609756098,1.0,0.177777777778
 -------------------------------------------------------
-0:00:12.039897
+0:00:59.336491
 ===========================================================
 current_year:2014-train_total:232
 training matrix shape:(232, 32577)
@@ -437,11 +472,11 @@ test matrix shape:(11, 32577)
 objects with labels: (11, 38)
 labels predicted shape:(11, 38)
 labels predicted shape:(11, 38)
+['Alarme', 'Android', 'Applications', 'Bricolage', 'Cablage de prises', 'Carto & GPS', 'Commandes', 'Controleurs', 'Cours', 'DLink', 'Domotique', 'Eclipse', 'Eloise', 'FreeBox', 'Galeres', 'Generalitees', 'Indispensable', 'LaTeX', 'Linux', 'Livres', 'Location', 'Logiciels', 'Materiel', 'Modules', 'Photo & Video', 'Questions Reseau', 'Raspberry', 'Reflexions', 'Surveillance', 'Synology', 'Systeme', 'TALN', 'Tutoriels', 'UIMA', 'UPNP-DNLA', 'Windows (OS)', 'Windows Mobile', 'WordPress']
 scores[accuracy,precision,recall,f1-measure]:
 s--0.181818181818,0.407407407407,0.916666666667,0.564102564103
 scoresWa[accuracy,precision,recall,f1-measure]:
 sw--0.0,0.222222222222,1.0,0.363636363636
 -------------------------------------------------------
-0:00:15.265129
+0:01:36.193847
 ===========================================================
-Total time:0:00:16.645441

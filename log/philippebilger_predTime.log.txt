@@ -1,0 +1,722 @@
+blog's life from 2005 to 2015
+///////////////////////////////////////////////////////////
+current_year:2005-train_total:23
+training matrix shape:(23, 10737)
+objects with labels: (23, 3) - number of categories: 3
+year:2005-train:23 w:1
+size of weights array:23
+test set range:[2006-2006]-test_total:107
+test matrix shape:(107, 10737)
+objects with labels: (107, 3)
+labels predicted shape:(107, 3)
+labels predicted shape:(107, 3)
+['Justice', u'M\xe9dias', u'Soci\xe9t\xe9']
+scores[accuracy,precision,recall,f1-measure]:
+s--0.308411214953,0.430939226519,0.728971962617,0.541666666667
+scoresWa[accuracy,precision,recall,f1-measure]:
+sw--0.308411214953,0.430939226519,0.728971962617,0.541666666667
+-------------------------------------------------------
+test set range:[2006-2007]-test_total:284
+test matrix shape:(284, 10737)
+objects with labels: (284, 3)
+labels predicted shape:(284, 3)
+labels predicted shape:(284, 3)
+['Justice', u'M\xe9dias', u'Soci\xe9t\xe9']
+scores[accuracy,precision,recall,f1-measure]:
+s--0.211267605634,0.354251012146,0.616197183099,0.449871465296
+scoresWa[accuracy,precision,recall,f1-measure]:
+sw--0.211267605634,0.354251012146,0.616197183099,0.449871465296
+-------------------------------------------------------
+test set range:[2006-2008]-test_total:467
+test matrix shape:(467, 10737)
+objects with labels: (467, 3)
+labels predicted shape:(467, 3)
+labels predicted shape:(467, 3)
+['Justice', u'M\xe9dias', u'Soci\xe9t\xe9']
+scores[accuracy,precision,recall,f1-measure]:
+s--0.17130620985,0.329097839898,0.55460385439,0.41307814992
+scoresWa[accuracy,precision,recall,f1-measure]:
+sw--0.17130620985,0.329097839898,0.55460385439,0.41307814992
+-------------------------------------------------------
+test set range:[2006-2009]-test_total:632
+test matrix shape:(632, 10737)
+objects with labels: (632, 3)
+labels predicted shape:(632, 3)
+labels predicted shape:(632, 3)
+['Justice', u'M\xe9dias', u'Soci\xe9t\xe9']
+scores[accuracy,precision,recall,f1-measure]:
+s--0.129746835443,0.299115044248,0.534810126582,0.383654937571
+scoresWa[accuracy,precision,recall,f1-measure]:
+sw--0.129746835443,0.299115044248,0.534810126582,0.383654937571
+-------------------------------------------------------
+test set range:[2006-2010]-test_total:818
+test matrix shape:(818, 10737)
+objects with labels: (818, 3)
+labels predicted shape:(818, 3)
+labels predicted shape:(818, 3)
+['Justice', u'M\xe9dias', u'Soci\xe9t\xe9']
+scores[accuracy,precision,recall,f1-measure]:
+s--0.100244498778,0.272784810127,0.526894865526,0.359466221852
+scoresWa[accuracy,precision,recall,f1-measure]:
+sw--0.100244498778,0.272784810127,0.526894865526,0.359466221852
+-------------------------------------------------------
+test set range:[2006-2011]-test_total:1010
+test matrix shape:(1010, 10737)
+objects with labels: (1010, 3)
+labels predicted shape:(1010, 3)
+labels predicted shape:(1010, 3)
+['Justice', u'M\xe9dias', u'Soci\xe9t\xe9']
+scores[accuracy,precision,recall,f1-measure]:
+s--0.0811881188119,0.26941514861,0.556435643564,0.363049095607
+scoresWa[accuracy,precision,recall,f1-measure]:
+sw--0.0811881188119,0.26941514861,0.556435643564,0.363049095607
+-------------------------------------------------------
+test set range:[2006-2012]-test_total:1204
+test matrix shape:(1204, 10737)
+objects with labels: (1204, 3)
+labels predicted shape:(1204, 3)
+labels predicted shape:(1204, 3)
+['Justice', u'M\xe9dias', u'Soci\xe9t\xe9']
+scores[accuracy,precision,recall,f1-measure]:
+s--0.0697674418605,0.2598671356,0.552325581395,0.353441403136
+scoresWa[accuracy,precision,recall,f1-measure]:
+sw--0.0697674418605,0.2598671356,0.552325581395,0.353441403136
+-------------------------------------------------------
+test set range:[2006-2013]-test_total:1397
+test matrix shape:(1397, 10737)
+objects with labels: (1397, 3)
+labels predicted shape:(1397, 3)
+labels predicted shape:(1397, 3)
+['Justice', u'M\xe9dias', u'Soci\xe9t\xe9']
+scores[accuracy,precision,recall,f1-measure]:
+s--0.0615604867573,0.256274768824,0.555476020043,0.350734463277
+scoresWa[accuracy,precision,recall,f1-measure]:
+sw--0.0615604867573,0.256274768824,0.555476020043,0.350734463277
+-------------------------------------------------------
+test set range:[2006-2014]-test_total:1589
+test matrix shape:(1589, 10737)
+objects with labels: (1589, 3)
+labels predicted shape:(1589, 3)
+labels predicted shape:(1589, 3)
+['Justice', u'M\xe9dias', u'Soci\xe9t\xe9']
+scores[accuracy,precision,recall,f1-measure]:
+s--0.0541220893644,0.25499144324,0.562617998741,0.350932286555
+scoresWa[accuracy,precision,recall,f1-measure]:
+sw--0.0541220893644,0.25499144324,0.562617998741,0.350932286555
+-------------------------------------------------------
+test set range:[2006-2015]-test_total:1729
+test matrix shape:(1729, 10737)
+objects with labels: (1729, 3)
+labels predicted shape:(1729, 3)
+labels predicted shape:(1729, 3)
+['Justice', u'M\xe9dias', u'Soci\xe9t\xe9']
+scores[accuracy,precision,recall,f1-measure]:
+s--0.0497397339503,0.25323666494,0.565644881434,0.349847969952
+scoresWa[accuracy,precision,recall,f1-measure]:
+sw--0.0497397339503,0.25323666494,0.565644881434,0.349847969952
+-------------------------------------------------------
+0:00:17.875063
+===========================================================
+current_year:2006-train_total:130
+training matrix shape:(130, 52618)
+objects with labels: (130, 3) - number of categories: 3
+year:2006-train:107 w:1
+year:2005-train:23 w:0.666666666667
+size of weights array:130
+test set range:[2007-2007]-test_total:177
+test matrix shape:(177, 52618)
+objects with labels: (177, 3)
+labels predicted shape:(177, 3)
+labels predicted shape:(177, 3)
+['Justice', u'M\xe9dias', u'Soci\xe9t\xe9']
+scores[accuracy,precision,recall,f1-measure]:
+s--0.19209039548,0.674121405751,0.655279503106,0.664566929134
+scoresWa[accuracy,precision,recall,f1-measure]:
+sw--0.19209039548,0.664536741214,0.662420382166,0.663476874003
+-------------------------------------------------------
+test set range:[2007-2008]-test_total:360
+test matrix shape:(360, 52618)
+objects with labels: (360, 3)
+labels predicted shape:(360, 3)
+labels predicted shape:(360, 3)
+['Justice', u'M\xe9dias', u'Soci\xe9t\xe9']
+scores[accuracy,precision,recall,f1-measure]:
+s--0.175,0.70297029703,0.614718614719,0.655889145497
+scoresWa[accuracy,precision,recall,f1-measure]:
+sw--0.175,0.684818481848,0.615727002967,0.6484375
+-------------------------------------------------------
+test set range:[2007-2009]-test_total:525
+test matrix shape:(525, 52618)
+objects with labels: (525, 3)
+labels predicted shape:(525, 3)
+labels predicted shape:(525, 3)
+['Justice', u'M\xe9dias', u'Soci\xe9t\xe9']
+scores[accuracy,precision,recall,f1-measure]:
+s--0.150476190476,0.68177028451,0.633692458374,0.656852791878
+scoresWa[accuracy,precision,recall,f1-measure]:
+sw--0.152380952381,0.664910432034,0.633534136546,0.648843187661
+-------------------------------------------------------
+test set range:[2007-2010]-test_total:711
+test matrix shape:(711, 52618)
+objects with labels: (711, 3)
+labels predicted shape:(711, 3)
+labels predicted shape:(711, 3)
+['Justice', u'M\xe9dias', u'Soci\xe9t\xe9']
+scores[accuracy,precision,recall,f1-measure]:
+s--0.118143459916,0.651179413867,0.657761732852,0.654454022989
+scoresWa[accuracy,precision,recall,f1-measure]:
+sw--0.116736990155,0.629020729092,0.654761904762,0.641633248268
+-------------------------------------------------------
+test set range:[2007-2011]-test_total:903
+test matrix shape:(903, 52618)
+objects with labels: (903, 3)
+labels predicted shape:(903, 3)
+labels predicted shape:(903, 3)
+['Justice', u'M\xe9dias', u'Soci\xe9t\xe9']
+scores[accuracy,precision,recall,f1-measure]:
+s--0.112956810631,0.641469816273,0.693923906871,0.666666666667
+scoresWa[accuracy,precision,recall,f1-measure]:
+sw--0.108527131783,0.619947506562,0.690643274854,0.653388658368
+-------------------------------------------------------
+test set range:[2007-2012]-test_total:1097
+test matrix shape:(1097, 52618)
+objects with labels: (1097, 3)
+labels predicted shape:(1097, 3)
+labels predicted shape:(1097, 3)
+['Justice', u'M\xe9dias', u'Soci\xe9t\xe9']
+scores[accuracy,precision,recall,f1-measure]:
+s--0.106654512306,0.632464255677,0.701819878675,0.665339526653
+scoresWa[accuracy,precision,recall,f1-measure]:
+sw--0.101185050137,0.612699747687,0.698800959233,0.652924042124
+-------------------------------------------------------
+test set range:[2007-2013]-test_total:1290
+test matrix shape:(1290, 52618)
+objects with labels: (1290, 3)
+labels predicted shape:(1290, 3)
+labels predicted shape:(1290, 3)
+['Justice', u'M\xe9dias', u'Soci\xe9t\xe9']
+scores[accuracy,precision,recall,f1-measure]:
+s--0.103875968992,0.634703196347,0.710857592447,0.670625347931
+scoresWa[accuracy,precision,recall,f1-measure]:
+sw--0.0953488372093,0.612574639972,0.707218167072,0.656502917372
+-------------------------------------------------------
+test set range:[2007-2014]-test_total:1482
+test matrix shape:(1482, 52618)
+objects with labels: (1482, 3)
+labels predicted shape:(1482, 3)
+labels predicted shape:(1482, 3)
+['Justice', u'M\xe9dias', u'Soci\xe9t\xe9']
+scores[accuracy,precision,recall,f1-measure]:
+s--0.110661268556,0.638796992481,0.723433242507,0.678485864878
+scoresWa[accuracy,precision,recall,f1-measure]:
+sw--0.0971659919028,0.614135338346,0.719014084507,0.662449310624
+-------------------------------------------------------
+test set range:[2007-2015]-test_total:1622
+test matrix shape:(1622, 52618)
+objects with labels: (1622, 3)
+labels predicted shape:(1622, 3)
+labels predicted shape:(1622, 3)
+['Justice', u'M\xe9dias', u'Soci\xe9t\xe9']
+scores[accuracy,precision,recall,f1-measure]:
+s--0.106658446363,0.637598478674,0.72956170345,0.680487097709
+scoresWa[accuracy,precision,recall,f1-measure]:
+sw--0.0930949445129,0.61369193154,0.725200642055,0.664802825191
+-------------------------------------------------------
+0:01:21.074452
+===========================================================
+current_year:2007-train_total:307
+training matrix shape:(307, 114503)
+objects with labels: (307, 3) - number of categories: 3
+year:2007-train:177 w:1
+year:2006-train:107 w:0.666666666667
+year:2005-train:23 w:0.444444444444
+size of weights array:307
+test set range:[2008-2008]-test_total:183
+test matrix shape:(183, 114503)
+objects with labels: (183, 3)
+labels predicted shape:(183, 3)
+labels predicted shape:(183, 3)
+['Justice', u'M\xe9dias', u'Soci\xe9t\xe9']
+scores[accuracy,precision,recall,f1-measure]:
+s--0.251366120219,0.907849829352,0.610091743119,0.729766803841
+scoresWa[accuracy,precision,recall,f1-measure]:
+sw--0.196721311475,0.907849829352,0.572043010753,0.701846965699
+-------------------------------------------------------
+test set range:[2008-2009]-test_total:348
+test matrix shape:(348, 114503)
+objects with labels: (348, 3)
+labels predicted shape:(348, 3)
+labels predicted shape:(348, 3)
+['Justice', u'M\xe9dias', u'Soci\xe9t\xe9']
+scores[accuracy,precision,recall,f1-measure]:
+s--0.255747126437,0.860062893082,0.667073170732,0.751373626374
+scoresWa[accuracy,precision,recall,f1-measure]:
+sw--0.206896551724,0.86320754717,0.632488479263,0.730053191489
+-------------------------------------------------------
+test set range:[2008-2010]-test_total:534
+test matrix shape:(534, 114503)
+objects with labels: (534, 3)
+labels predicted shape:(534, 3)
+labels predicted shape:(534, 3)
+['Justice', u'M\xe9dias', u'Soci\xe9t\xe9']
+scores[accuracy,precision,recall,f1-measure]:
+s--0.269662921348,0.829650092081,0.728375101051,0.775721050366
+scoresWa[accuracy,precision,recall,f1-measure]:
+sw--0.200374531835,0.834254143646,0.689497716895,0.755
+-------------------------------------------------------
+test set range:[2008-2011]-test_total:726
+test matrix shape:(726, 114503)
+objects with labels: (726, 3)
+labels predicted shape:(726, 3)
+labels predicted shape:(726, 3)
+['Justice', u'M\xe9dias', u'Soci\xe9t\xe9']
+scores[accuracy,precision,recall,f1-measure]:
+s--0.309917355372,0.821608040201,0.775800711744,0.798047589994
+scoresWa[accuracy,precision,recall,f1-measure]:
+sw--0.247933884298,0.831658291457,0.740078256009,0.783200236616
+-------------------------------------------------------
+test set range:[2008-2012]-test_total:920
+test matrix shape:(920, 114503)
+objects with labels: (920, 3)
+labels predicted shape:(920, 3)
+labels predicted shape:(920, 3)
+['Justice', u'M\xe9dias', u'Soci\xe9t\xe9']
+scores[accuracy,precision,recall,f1-measure]:
+s--0.321739130435,0.825665859564,0.791183294664,0.808056872038
+scoresWa[accuracy,precision,recall,f1-measure]:
+sw--0.258695652174,0.835351089588,0.755915863278,0.793650793651
+-------------------------------------------------------
+test set range:[2008-2013]-test_total:1113
+test matrix shape:(1113, 114503)
+objects with labels: (1113, 3)
+labels predicted shape:(1113, 3)
+labels predicted shape:(1113, 3)
+['Justice', u'M\xe9dias', u'Soci\xe9t\xe9']
+scores[accuracy,precision,recall,f1-measure]:
+s--0.33692722372,0.830307813733,0.802440884821,0.816136539953
+scoresWa[accuracy,precision,recall,f1-measure]:
+sw--0.264150943396,0.837411207577,0.766341639581,0.80030171601
+-------------------------------------------------------
+test set range:[2008-2014]-test_total:1305
+test matrix shape:(1305, 114503)
+objects with labels: (1305, 3)
+labels predicted shape:(1305, 3)
+labels predicted shape:(1305, 3)
+['Justice', u'M\xe9dias', u'Soci\xe9t\xe9']
+scores[accuracy,precision,recall,f1-measure]:
+s--0.350957854406,0.835325365206,0.812136862492,0.82356792144
+scoresWa[accuracy,precision,recall,f1-measure]:
+sw--0.27816091954,0.839973439575,0.777504609711,0.807532716246
+-------------------------------------------------------
+test set range:[2008-2015]-test_total:1445
+test matrix shape:(1445, 114503)
+objects with labels: (1445, 3)
+labels predicted shape:(1445, 3)
+labels predicted shape:(1445, 3)
+['Justice', u'M\xe9dias', u'Soci\xe9t\xe9']
+scores[accuracy,precision,recall,f1-measure]:
+s--0.352941176471,0.832244655582,0.819351066939,0.825747532774
+scoresWa[accuracy,precision,recall,f1-measure]:
+sw--0.277508650519,0.83580760095,0.782814238042,0.80844342332
+-------------------------------------------------------
+0:05:02.153593
+===========================================================
+current_year:2008-train_total:490
+training matrix shape:(490, 178040)
+objects with labels: (490, 10) - number of categories: 10
+year:2008-train:183 w:1
+year:2007-train:177 w:0.666666666667
+year:2006-train:107 w:0.444444444444
+year:2005-train:23 w:0.296296296296
+size of weights array:490
+test set range:[2009-2009]-test_total:165
+test matrix shape:(165, 178040)
+objects with labels: (165, 10)
+labels predicted shape:(165, 10)
+labels predicted shape:(165, 10)
+[u'Actualit\xe9', u'Cin\xe9ma', 'Justice', 'Livres', 'Musique', u'M\xe9dias', 'Religion', u'Soci\xe9t\xe9', 'Sports', u'T\xe9l\xe9vision']
+scores[accuracy,precision,recall,f1-measure]:
+s--0.00606060606061,0.541666666667,0.794444444444,0.644144144144
+scoresWa[accuracy,precision,recall,f1-measure]:
+sw--0.00606060606061,0.583333333333,0.762376237624,0.660944206009
+-------------------------------------------------------
+test set range:[2009-2010]-test_total:351
+test matrix shape:(351, 178040)
+objects with labels: (351, 10)
+labels predicted shape:(351, 10)
+labels predicted shape:(351, 10)
+[u'Actualit\xe9', u'Cin\xe9ma', 'Justice', 'Livres', 'Musique', u'M\xe9dias', 'Religion', u'Soci\xe9t\xe9', 'Sports', u'T\xe9l\xe9vision']
+scores[accuracy,precision,recall,f1-measure]:
+s--0.00569800569801,0.544920235097,0.863031914894,0.668039114771
+scoresWa[accuracy,precision,recall,f1-measure]:
+sw--0.002849002849,0.591939546599,0.829411764706,0.690837824596
+-------------------------------------------------------
+test set range:[2009-2011]-test_total:543
+test matrix shape:(543, 178040)
+objects with labels: (543, 10)
+labels predicted shape:(543, 10)
+labels predicted shape:(543, 10)
+[u'Actualit\xe9', u'Cin\xe9ma', 'Justice', 'Livres', 'Musique', u'M\xe9dias', 'Religion', u'Soci\xe9t\xe9', 'Sports', u'T\xe9l\xe9vision']
+scores[accuracy,precision,recall,f1-measure]:
+s--0.00552486187845,0.5507548152,0.898132427844,0.682800903517
+scoresWa[accuracy,precision,recall,f1-measure]:
+sw--0.00184162062615,0.599687662676,0.868123587038,0.709359605911
+-------------------------------------------------------
+test set range:[2009-2012]-test_total:737
+test matrix shape:(737, 178040)
+objects with labels: (737, 10)
+labels predicted shape:(737, 10)
+labels predicted shape:(737, 10)
+[u'Actualit\xe9', u'Cin\xe9ma', 'Justice', 'Livres', 'Musique', u'M\xe9dias', 'Religion', u'Soci\xe9t\xe9', 'Sports', u'T\xe9l\xe9vision']
+scores[accuracy,precision,recall,f1-measure]:
+s--0.00542740841248,0.551512830333,0.905091137649,0.685387910519
+scoresWa[accuracy,precision,recall,f1-measure]:
+sw--0.00135685210312,0.605132133282,0.876317249029,0.715903942003
+-------------------------------------------------------
+test set range:[2009-2013]-test_total:930
+test matrix shape:(930, 178040)
+objects with labels: (930, 10)
+labels predicted shape:(930, 10)
+labels predicted shape:(930, 10)
+[u'Actualit\xe9', u'Cin\xe9ma', 'Justice', 'Livres', 'Musique', u'M\xe9dias', 'Religion', u'Soci\xe9t\xe9', 'Sports', u'T\xe9l\xe9vision']
+scores[accuracy,precision,recall,f1-measure]:
+s--0.00430107526882,0.552378085491,0.907517309594,0.686751497006
+scoresWa[accuracy,precision,recall,f1-measure]:
+sw--0.0010752688172,0.60776640578,0.880890052356,0.719273245458
+-------------------------------------------------------
+test set range:[2009-2014]-test_total:1122
+test matrix shape:(1122, 178040)
+objects with labels: (1122, 10)
+labels predicted shape:(1122, 10)
+labels predicted shape:(1122, 10)
+[u'Actualit\xe9', u'Cin\xe9ma', 'Justice', 'Livres', 'Musique', u'M\xe9dias', 'Religion', u'Soci\xe9t\xe9', 'Sports', u'T\xe9l\xe9vision']
+scores[accuracy,precision,recall,f1-measure]:
+s--0.00356506238859,0.556660039761,0.910569105691,0.690931523751
+scoresWa[accuracy,precision,recall,f1-measure]:
+sw--0.000891265597148,0.611083499006,0.882310728382,0.722067244164
+-------------------------------------------------------
+test set range:[2009-2015]-test_total:1262
+test matrix shape:(1262, 178040)
+objects with labels: (1262, 10)
+labels predicted shape:(1262, 10)
+labels predicted shape:(1262, 10)
+[u'Actualit\xe9', u'Cin\xe9ma', 'Justice', 'Livres', 'Musique', u'M\xe9dias', 'Religion', u'Soci\xe9t\xe9', 'Sports', u'T\xe9l\xe9vision']
+scores[accuracy,precision,recall,f1-measure]:
+s--0.00316957210777,0.555115511551,0.914461761508,0.690854326396
+scoresWa[accuracy,precision,recall,f1-measure]:
+sw--0.000792393026941,0.610121012101,0.886225631192,0.722700026062
+-------------------------------------------------------
+0:14:41.113692
+===========================================================
+current_year:2009-train_total:655
+training matrix shape:(655, 238677)
+objects with labels: (655, 12) - number of categories: 12
+year:2009-train:165 w:1
+year:2008-train:183 w:0.666666666667
+year:2007-train:177 w:0.444444444444
+year:2006-train:107 w:0.296296296296
+year:2005-train:23 w:0.197530864198
+size of weights array:655
+test set range:[2010-2010]-test_total:186
+test matrix shape:(186, 238677)
+objects with labels: (186, 12)
+labels predicted shape:(186, 12)
+labels predicted shape:(186, 12)
+[u'Actualit\xe9', u'Cin\xe9ma', 'Jeux', 'Justice', 'Livres', 'Musique', u'M\xe9dias', 'Religion', 'Science', u'Soci\xe9t\xe9', 'Sports', u'T\xe9l\xe9vision']
+scores[accuracy,precision,recall,f1-measure]:
+s--0.306451612903,0.724812030075,0.95256916996,0.823228010248
+scoresWa[accuracy,precision,recall,f1-measure]:
+sw--0.0376344086022,0.661654135338,0.932203389831,0.773966578716
+-------------------------------------------------------
+test set range:[2010-2011]-test_total:378
+test matrix shape:(378, 238677)
+objects with labels: (378, 12)
+labels predicted shape:(378, 12)
+labels predicted shape:(378, 12)
+[u'Actualit\xe9', u'Cin\xe9ma', 'Jeux', 'Justice', 'Livres', 'Musique', u'M\xe9dias', 'Religion', 'Science', u'Soci\xe9t\xe9', 'Sports', u'T\xe9l\xe9vision']
+scores[accuracy,precision,recall,f1-measure]:
+s--0.280423280423,0.719197707736,0.966313763234,0.824640657084
+scoresWa[accuracy,precision,recall,f1-measure]:
+sw--0.0238095238095,0.648280802292,0.94566353187,0.769230769231
+-------------------------------------------------------
+test set range:[2010-2012]-test_total:572
+test matrix shape:(572, 238677)
+objects with labels: (572, 12)
+labels predicted shape:(572, 12)
+labels predicted shape:(572, 12)
+[u'Actualit\xe9', u'Cin\xe9ma', 'Jeux', 'Justice', 'Livres', 'Musique', u'M\xe9dias', 'Religion', 'Science', u'Soci\xe9t\xe9', 'Sports', u'T\xe9l\xe9vision']
+scores[accuracy,precision,recall,f1-measure]:
+s--0.243006993007,0.705882352941,0.959064327485,0.813223140496
+scoresWa[accuracy,precision,recall,f1-measure]:
+sw--0.0192307692308,0.642754662841,0.939203354298,0.763202725724
+-------------------------------------------------------
+test set range:[2010-2013]-test_total:765
+test matrix shape:(765, 238677)
+objects with labels: (765, 12)
+labels predicted shape:(765, 12)
+labels predicted shape:(765, 12)
+[u'Actualit\xe9', u'Cin\xe9ma', 'Jeux', 'Justice', 'Livres', 'Musique', u'M\xe9dias', 'Religion', 'Science', u'Soci\xe9t\xe9', 'Sports', u'T\xe9l\xe9vision']
+scores[accuracy,precision,recall,f1-measure]:
+s--0.222222222222,0.697218259629,0.953193564115,0.805355303811
+scoresWa[accuracy,precision,recall,f1-measure]:
+sw--0.0169934640523,0.637660485021,0.932707355243,0.757466638424
+-------------------------------------------------------
+test set range:[2010-2014]-test_total:957
+test matrix shape:(957, 238677)
+objects with labels: (957, 12)
+labels predicted shape:(957, 12)
+labels predicted shape:(957, 12)
+[u'Actualit\xe9', u'Cin\xe9ma', 'Jeux', 'Justice', 'Livres', 'Musique', u'M\xe9dias', 'Religion', 'Science', u'Soci\xe9t\xe9', 'Sports', u'T\xe9l\xe9vision']
+scores[accuracy,precision,recall,f1-measure]:
+s--0.207941483804,0.694586894587,0.949746786132,0.802369590258
+scoresWa[accuracy,precision,recall,f1-measure]:
+sw--0.0135841170324,0.634757834758,0.92794668888,0.753848756556
+-------------------------------------------------------
+test set range:[2010-2015]-test_total:1097
+test matrix shape:(1097, 238677)
+objects with labels: (1097, 12)
+labels predicted shape:(1097, 12)
+labels predicted shape:(1097, 12)
+[u'Actualit\xe9', u'Cin\xe9ma', 'Jeux', 'Justice', 'Livres', 'Musique', u'M\xe9dias', 'Religion', 'Science', u'Soci\xe9t\xe9', 'Sports', u'T\xe9l\xe9vision']
+scores[accuracy,precision,recall,f1-measure]:
+s--0.197812215132,0.688988095238,0.951695786228,0.799309451877
+scoresWa[accuracy,precision,recall,f1-measure]:
+sw--0.0127620783956,0.633432539683,0.93109733868,0.753948339483
+-------------------------------------------------------
+0:30:29.552271
+===========================================================
+current_year:2010-train_total:841
+training matrix shape:(841, 297822)
+objects with labels: (841, 13) - number of categories: 13
+year:2010-train:186 w:1
+year:2009-train:165 w:0.666666666667
+year:2008-train:183 w:0.444444444444
+year:2007-train:177 w:0.296296296296
+year:2006-train:107 w:0.197530864198
+year:2005-train:23 w:0.131687242798
+size of weights array:841
+test set range:[2011-2011]-test_total:192
+test matrix shape:(192, 297822)
+objects with labels: (192, 13)
+labels predicted shape:(192, 13)
+labels predicted shape:(192, 13)
+[u'Actualit\xe9', u'Cin\xe9ma', 'Gastronomie', 'Jeux', 'Justice', 'Livres', 'Musique', u'M\xe9dias', 'Religion', 'Science', u'Soci\xe9t\xe9', 'Sports', u'T\xe9l\xe9vision']
+scores[accuracy,precision,recall,f1-measure]:
+s--0.588541666667,0.878248974008,0.978658536585,0.925739005047
+scoresWa[accuracy,precision,recall,f1-measure]:
+sw--0.526041666667,0.872777017784,0.96813353566,0.917985611511
+-------------------------------------------------------
+test set range:[2011-2012]-test_total:386
+test matrix shape:(386, 297822)
+objects with labels: (386, 13)
+labels predicted shape:(386, 13)
+labels predicted shape:(386, 13)
+[u'Actualit\xe9', u'Cin\xe9ma', 'Gastronomie', 'Jeux', 'Justice', 'Livres', 'Musique', u'M\xe9dias', 'Religion', 'Science', u'Soci\xe9t\xe9', 'Sports', u'T\xe9l\xe9vision']
+scores[accuracy,precision,recall,f1-measure]:
+s--0.544041450777,0.870967741935,0.963537626067,0.914917127072
+scoresWa[accuracy,precision,recall,f1-measure]:
+sw--0.474093264249,0.868162692847,0.952307692308,0.908290535583
+-------------------------------------------------------
+test set range:[2011-2013]-test_total:579
+test matrix shape:(579, 297822)
+objects with labels: (579, 13)
+labels predicted shape:(579, 13)
+labels predicted shape:(579, 13)
+[u'Actualit\xe9', u'Cin\xe9ma', 'Gastronomie', 'Jeux', 'Justice', 'Livres', 'Musique', u'M\xe9dias', 'Religion', 'Science', u'Soci\xe9t\xe9', 'Sports', u'T\xe9l\xe9vision']
+scores[accuracy,precision,recall,f1-measure]:
+s--0.518134715026,0.863955119215,0.95602690119,0.907662082515
+scoresWa[accuracy,precision,recall,f1-measure]:
+sw--0.454231433506,0.856474988312,0.944329896907,0.898259377298
+-------------------------------------------------------
+test set range:[2011-2014]-test_total:771
+test matrix shape:(771, 297822)
+objects with labels: (771, 13)
+labels predicted shape:(771, 13)
+labels predicted shape:(771, 13)
+[u'Actualit\xe9', u'Cin\xe9ma', 'Gastronomie', 'Jeux', 'Justice', 'Livres', 'Musique', u'M\xe9dias', 'Religion', 'Science', u'Soci\xe9t\xe9', 'Sports', u'T\xe9l\xe9vision']
+scores[accuracy,precision,recall,f1-measure]:
+s--0.492866407263,0.858749121574,0.952826510721,0.903345037886
+scoresWa[accuracy,precision,recall,f1-measure]:
+sw--0.430609597925,0.852073085032,0.94065166796,0.894174041298
+-------------------------------------------------------
+test set range:[2011-2015]-test_total:911
+test matrix shape:(911, 297822)
+objects with labels: (911, 13)
+labels predicted shape:(911, 13)
+labels predicted shape:(911, 13)
+[u'Actualit\xe9', u'Cin\xe9ma', 'Gastronomie', 'Jeux', 'Justice', 'Livres', 'Musique', u'M\xe9dias', 'Religion', 'Science', u'Soci\xe9t\xe9', 'Sports', u'T\xe9l\xe9vision']
+scores[accuracy,precision,recall,f1-measure]:
+s--0.48627881449,0.856634016028,0.954680780681,0.903003754693
+scoresWa[accuracy,precision,recall,f1-measure]:
+sw--0.430296377607,0.852478480261,0.942257217848,0.895122331307
+-------------------------------------------------------
+0:53:36.418093
+===========================================================
+current_year:2011-train_total:1033
+training matrix shape:(1033, 357142)
+objects with labels: (1033, 14) - number of categories: 14
+year:2011-train:192 w:1
+year:2010-train:186 w:0.666666666667
+year:2009-train:165 w:0.444444444444
+year:2008-train:183 w:0.296296296296
+year:2007-train:177 w:0.197530864198
+year:2006-train:107 w:0.131687242798
+year:2005-train:23 w:0.0877914951989
+size of weights array:1033
+test set range:[2012-2012]-test_total:194
+test matrix shape:(194, 357142)
+objects with labels: (194, 14)
+labels predicted shape:(194, 14)
+labels predicted shape:(194, 14)
+[u'Actualit\xe9', u'Cin\xe9ma', 'Gastronomie', 'Jeux', 'Justice', 'Livres', 'Musique', u'M\xe9dias', 'Religion', 'Science', u'Soci\xe9t\xe9', 'Sports', u'T\xe9l\xe9vision', 'Voyages']
+scores[accuracy,precision,recall,f1-measure]:
+s--0.567010309278,0.905035971223,0.93740685544,0.92093704246
+scoresWa[accuracy,precision,recall,f1-measure]:
+sw--0.525773195876,0.923741007194,0.918454935622,0.921090387374
+-------------------------------------------------------
+test set range:[2012-2013]-test_total:387
+test matrix shape:(387, 357142)
+objects with labels: (387, 14)
+labels predicted shape:(387, 14)
+labels predicted shape:(387, 14)
+[u'Actualit\xe9', u'Cin\xe9ma', 'Gastronomie', 'Jeux', 'Justice', 'Livres', 'Musique', u'M\xe9dias', 'Religion', 'Science', u'Soci\xe9t\xe9', 'Sports', u'T\xe9l\xe9vision', 'Voyages']
+scores[accuracy,precision,recall,f1-measure]:
+s--0.552971576227,0.893465909091,0.934621099554,0.913580246914
+scoresWa[accuracy,precision,recall,f1-measure]:
+sw--0.527131782946,0.908380681818,0.920143884892,0.914224446033
+-------------------------------------------------------
+test set range:[2012-2014]-test_total:579
+test matrix shape:(579, 357142)
+objects with labels: (579, 14)
+labels predicted shape:(579, 14)
+labels predicted shape:(579, 14)
+[u'Actualit\xe9', u'Cin\xe9ma', 'Gastronomie', 'Jeux', 'Justice', 'Livres', 'Musique', u'M\xe9dias', 'Religion', 'Science', u'Soci\xe9t\xe9', 'Sports', u'T\xe9l\xe9vision', 'Voyages']
+scores[accuracy,precision,recall,f1-measure]:
+s--0.525043177893,0.889834515366,0.933531746032,0.911159525539
+scoresWa[accuracy,precision,recall,f1-measure]:
+sw--0.502590673575,0.906382978723,0.917224880383,0.911771700357
+-------------------------------------------------------
+test set range:[2012-2015]-test_total:719
+test matrix shape:(719, 357142)
+objects with labels: (719, 14)
+labels predicted shape:(719, 14)
+labels predicted shape:(719, 14)
+[u'Actualit\xe9', u'Cin\xe9ma', 'Gastronomie', 'Jeux', 'Justice', 'Livres', 'Musique', u'M\xe9dias', 'Religion', 'Science', u'Soci\xe9t\xe9', 'Sports', u'T\xe9l\xe9vision', 'Voyages']
+scores[accuracy,precision,recall,f1-measure]:
+s--0.521557719054,0.887414708112,0.937525030036,0.911781888997
+scoresWa[accuracy,precision,recall,f1-measure]:
+sw--0.504867872045,0.907126611069,0.920030757401,0.913533117007
+-------------------------------------------------------
+1:27:13.635648
+===========================================================
+current_year:2012-train_total:1227
+training matrix shape:(1227, 413985)
+objects with labels: (1227, 14) - number of categories: 14
+year:2012-train:194 w:1
+year:2011-train:192 w:0.666666666667
+year:2010-train:186 w:0.444444444444
+year:2009-train:165 w:0.296296296296
+year:2008-train:183 w:0.197530864198
+year:2007-train:177 w:0.131687242798
+year:2006-train:107 w:0.0877914951989
+year:2005-train:23 w:0.0585276634659
+size of weights array:1227
+test set range:[2013-2013]-test_total:193
+test matrix shape:(193, 413985)
+objects with labels: (193, 14)
+labels predicted shape:(193, 14)
+labels predicted shape:(193, 14)
+[u'Actualit\xe9', u'Cin\xe9ma', 'Gastronomie', 'Jeux', 'Justice', 'Livres', 'Musique', u'M\xe9dias', 'Religion', 'Science', u'Soci\xe9t\xe9', 'Sports', u'T\xe9l\xe9vision', 'Voyages']
+scores[accuracy,precision,recall,f1-measure]:
+s--0.544041450777,0.884992987377,0.932053175775,0.907913669065
+scoresWa[accuracy,precision,recall,f1-measure]:
+sw--0.523316062176,0.88920056101,0.928257686676,0.908309455587
+-------------------------------------------------------
+test set range:[2013-2014]-test_total:385
+test matrix shape:(385, 413985)
+objects with labels: (385, 14)
+labels predicted shape:(385, 14)
+labels predicted shape:(385, 14)
+[u'Actualit\xe9', u'Cin\xe9ma', 'Gastronomie', 'Jeux', 'Justice', 'Livres', 'Musique', u'M\xe9dias', 'Religion', 'Science', u'Soci\xe9t\xe9', 'Sports', u'T\xe9l\xe9vision', 'Voyages']
+scores[accuracy,precision,recall,f1-measure]:
+s--0.532467532468,0.887323943662,0.936106983655,0.911062906725
+scoresWa[accuracy,precision,recall,f1-measure]:
+sw--0.503896103896,0.893661971831,0.924253459578,0.908700322234
+-------------------------------------------------------
+test set range:[2013-2015]-test_total:525
+test matrix shape:(525, 413985)
+objects with labels: (525, 14)
+labels predicted shape:(525, 14)
+labels predicted shape:(525, 14)
+[u'Actualit\xe9', u'Cin\xe9ma', 'Gastronomie', 'Jeux', 'Justice', 'Livres', 'Musique', u'M\xe9dias', 'Religion', 'Science', u'Soci\xe9t\xe9', 'Sports', u'T\xe9l\xe9vision', 'Voyages']
+scores[accuracy,precision,recall,f1-measure]:
+s--0.535238095238,0.888831703551,0.941657579062,0.914482393434
+scoresWa[accuracy,precision,recall,f1-measure]:
+sw--0.512380952381,0.897066392177,0.929104477612,0.912804399057
+-------------------------------------------------------
+2:12:20.570638
+===========================================================
+current_year:2013-train_total:1420
+training matrix shape:(1420, 474943)
+objects with labels: (1420, 15) - number of categories: 15
+year:2013-train:193 w:1
+year:2012-train:194 w:0.666666666667
+year:2011-train:192 w:0.444444444444
+year:2010-train:186 w:0.296296296296
+year:2009-train:165 w:0.197530864198
+year:2008-train:183 w:0.131687242798
+year:2007-train:177 w:0.0877914951989
+year:2006-train:107 w:0.0585276634659
+year:2005-train:23 w:0.0390184423106
+size of weights array:1420
+test set range:[2014-2014]-test_total:192
+test matrix shape:(192, 474943)
+objects with labels: (192, 15)
+labels predicted shape:(192, 15)
+labels predicted shape:(192, 15)
+[u'Actualit\xe9', u'Cin\xe9ma', 'Gastronomie', 'Jeux', 'Justice', 'Livres', 'Musique', u'M\xe9dias', 'Religion', 'Science', u'Soci\xe9t\xe9', 'Sports', u'T\xe9l\xe9vision', 'Voyages', 'Weblogs']
+scores[accuracy,precision,recall,f1-measure]:
+s--0.536458333333,0.89406779661,0.939169139466,0.916063675832
+scoresWa[accuracy,precision,recall,f1-measure]:
+sw--0.479166666667,0.895480225989,0.920174165457,0.907659269864
+-------------------------------------------------------
+test set range:[2014-2015]-test_total:332
+test matrix shape:(332, 474943)
+objects with labels: (332, 15)
+labels predicted shape:(332, 15)
+labels predicted shape:(332, 15)
+[u'Actualit\xe9', u'Cin\xe9ma', 'Gastronomie', 'Jeux', 'Justice', 'Livres', 'Musique', u'M\xe9dias', 'Religion', 'Science', u'Soci\xe9t\xe9', 'Sports', u'T\xe9l\xe9vision', 'Voyages', 'Weblogs']
+scores[accuracy,precision,recall,f1-measure]:
+s--0.548192771084,0.89520714866,0.947549441101,0.920634920635
+scoresWa[accuracy,precision,recall,f1-measure]:
+sw--0.509036144578,0.901705930138,0.930427493713,0.915841584158
+-------------------------------------------------------
+3:08:59.472966
+===========================================================
+current_year:2014-train_total:1612
+training matrix shape:(1612, 532141)
+objects with labels: (1612, 15) - number of categories: 15
+year:2014-train:192 w:1
+year:2013-train:193 w:0.666666666667
+year:2012-train:194 w:0.444444444444
+year:2011-train:192 w:0.296296296296
+year:2010-train:186 w:0.197530864198
+year:2009-train:165 w:0.131687242798
+year:2008-train:183 w:0.0877914951989
+year:2007-train:177 w:0.0585276634659
+year:2006-train:107 w:0.0390184423106
+year:2005-train:23 w:0.0260122948737
+size of weights array:1612
+test set range:[2015-2015]-test_total:140
+test matrix shape:(140, 532141)
+objects with labels: (140, 15)
+labels predicted shape:(140, 15)
+labels predicted shape:(140, 15)
+[u'Actualit\xe9', u'Cin\xe9ma', 'Gastronomie', 'Jeux', 'Justice', 'Livres', 'Musique', u'M\xe9dias', 'Religion', 'Science', u'Soci\xe9t\xe9', 'Sports', u'T\xe9l\xe9vision', 'Voyages', 'Weblogs']
+scores[accuracy,precision,recall,f1-measure]:
+s--0.542857142857,0.898661567878,0.949494949495,0.923379174853
+scoresWa[accuracy,precision,recall,f1-measure]:
+sw--0.557142857143,0.912045889101,0.940828402367,0.926213592233
+-------------------------------------------------------
+4:19:26.125387
+===========================================================

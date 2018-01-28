@@ -1,0 +1,212 @@
+blog's life from 2010 to 2015
+///////////////////////////////////////////////////////////
+current_year:2010-train_total:257
+training matrix shape:(257, 34776)
+objects with labels: (257, 27) - number of categories: 27
+year:2010-train:257 w:1
+size of weights array:257
+test set range:[2011-2011]-test_total:436
+test matrix shape:(436, 34776)
+objects with labels: (436, 27)
+labels predicted shape:(436, 27)
+labels predicted shape:(436, 27)
+['Achat - Arrivage', 'Apple', 'Bande Annonce', 'Blu-Ray', 'Bon plan', u'B\xeata', u'Cin\xe9ma', u'Communiqu\xe9', 'Concours', 'Divers', 'Film', 'High Tech', 'Infographie', 'Insolite', u'Jeux Vid\xe9o', 'Logiciel', 'Ma vie', 'PS3', 'Partenaire', 'Preview - Test', 'Retro Gaming', u'R\xe9seaux Sociaux', 'Test High-Tech', u'Troph\xe9es - Succ\xe8s', u'Vid\xe9os', 'Xbox 360', u'\xc9v\xe9nement']
+scores[accuracy,precision,recall,f1-measure]:
+s--0.133027522936,0.444683136412,0.773831775701,0.56480218281
+scoresWa[accuracy,precision,recall,f1-measure]:
+sw--0.133027522936,0.444683136412,0.773831775701,0.56480218281
+-------------------------------------------------------
+test set range:[2011-2012]-test_total:672
+test matrix shape:(672, 34776)
+objects with labels: (672, 27)
+labels predicted shape:(672, 27)
+labels predicted shape:(672, 27)
+['Achat - Arrivage', 'Apple', 'Bande Annonce', 'Blu-Ray', 'Bon plan', u'B\xeata', u'Cin\xe9ma', u'Communiqu\xe9', 'Concours', 'Divers', 'Film', 'High Tech', 'Infographie', 'Insolite', u'Jeux Vid\xe9o', 'Logiciel', 'Ma vie', 'PS3', 'Partenaire', 'Preview - Test', 'Retro Gaming', u'R\xe9seaux Sociaux', 'Test High-Tech', u'Troph\xe9es - Succ\xe8s', u'Vid\xe9os', 'Xbox 360', u'\xc9v\xe9nement']
+scores[accuracy,precision,recall,f1-measure]:
+s--0.105654761905,0.416968817984,0.712515489467,0.526075022873
+scoresWa[accuracy,precision,recall,f1-measure]:
+sw--0.105654761905,0.416968817984,0.712515489467,0.526075022873
+-------------------------------------------------------
+test set range:[2011-2013]-test_total:866
+test matrix shape:(866, 34776)
+objects with labels: (866, 27)
+labels predicted shape:(866, 27)
+labels predicted shape:(866, 27)
+['Achat - Arrivage', 'Apple', 'Bande Annonce', 'Blu-Ray', 'Bon plan', u'B\xeata', u'Cin\xe9ma', u'Communiqu\xe9', 'Concours', 'Divers', 'Film', 'High Tech', 'Infographie', 'Insolite', u'Jeux Vid\xe9o', 'Logiciel', 'Ma vie', 'PS3', 'Partenaire', 'Preview - Test', 'Retro Gaming', u'R\xe9seaux Sociaux', 'Test High-Tech', u'Troph\xe9es - Succ\xe8s', u'Vid\xe9os', 'Xbox 360', u'\xc9v\xe9nement']
+scores[accuracy,precision,recall,f1-measure]:
+s--0.118937644342,0.405532666274,0.676153091266,0.506990434143
+scoresWa[accuracy,precision,recall,f1-measure]:
+sw--0.118937644342,0.405532666274,0.676153091266,0.506990434143
+-------------------------------------------------------
+test set range:[2011-2014]-test_total:1046
+test matrix shape:(1046, 34776)
+objects with labels: (1046, 27)
+labels predicted shape:(1046, 27)
+labels predicted shape:(1046, 27)
+['Achat - Arrivage', 'Apple', 'Bande Annonce', 'Blu-Ray', 'Bon plan', u'B\xeata', u'Cin\xe9ma', u'Communiqu\xe9', 'Concours', 'Divers', 'Film', 'High Tech', 'Infographie', 'Insolite', u'Jeux Vid\xe9o', 'Logiciel', 'Ma vie', 'PS3', 'Partenaire', 'Preview - Test', 'Retro Gaming', u'R\xe9seaux Sociaux', 'Test High-Tech', u'Troph\xe9es - Succ\xe8s', u'Vid\xe9os', 'Xbox 360', u'\xc9v\xe9nement']
+scores[accuracy,precision,recall,f1-measure]:
+s--0.120458891013,0.404437720625,0.650446066504,0.498756218905
+scoresWa[accuracy,precision,recall,f1-measure]:
+sw--0.120458891013,0.404437720625,0.650446066504,0.498756218905
+-------------------------------------------------------
+test set range:[2011-2015]-test_total:1244
+test matrix shape:(1244, 34776)
+objects with labels: (1244, 27)
+labels predicted shape:(1244, 27)
+labels predicted shape:(1244, 27)
+['Achat - Arrivage', 'Apple', 'Bande Annonce', 'Blu-Ray', 'Bon plan', u'B\xeata', u'Cin\xe9ma', u'Communiqu\xe9', 'Concours', 'Divers', 'Film', 'High Tech', 'Infographie', 'Insolite', u'Jeux Vid\xe9o', 'Logiciel', 'Ma vie', 'PS3', 'Partenaire', 'Preview - Test', 'Retro Gaming', u'R\xe9seaux Sociaux', 'Test High-Tech', u'Troph\xe9es - Succ\xe8s', u'Vid\xe9os', 'Xbox 360', u'\xc9v\xe9nement']
+scores[accuracy,precision,recall,f1-measure]:
+s--0.121382636656,0.397020157756,0.636235955056,0.488936859147
+scoresWa[accuracy,precision,recall,f1-measure]:
+sw--0.121382636656,0.397020157756,0.636235955056,0.488936859147
+-------------------------------------------------------
+0:01:33.586190
+===========================================================
+current_year:2011-train_total:693
+training matrix shape:(693, 122906)
+objects with labels: (693, 31) - number of categories: 31
+year:2011-train:436 w:1
+year:2010-train:257 w:0.666666666667
+size of weights array:693
+test set range:[2012-2012]-test_total:236
+test matrix shape:(236, 122906)
+objects with labels: (236, 31)
+labels predicted shape:(236, 31)
+labels predicted shape:(236, 31)
+['3DS - 2DS - NDS', 'Achat - Arrivage', 'Apple', 'Avis - Critique', 'Bande Annonce', 'Blu-Ray', 'Bon plan', 'Bulle de la semaine', u'B\xeata', u'Cin\xe9ma', u'Communiqu\xe9', 'Concours', 'Divers', 'Film', 'High Tech', 'Infographie', 'Insolite', u'Jeux Vid\xe9o', 'Logiciel', 'Ma vie', 'PS3', 'Partenaire', 'Preview - Test', 'Retro Gaming', u'R\xe9seaux Sociaux', u'R\xe9tro Test', 'Test High-Tech', u'Troph\xe9es - Succ\xe8s', u'Vid\xe9os', 'Xbox 360', u'\xc9v\xe9nement']
+scores[accuracy,precision,recall,f1-measure]:
+s--0.271186440678,0.442190669371,0.854901960784,0.582887700535
+scoresWa[accuracy,precision,recall,f1-measure]:
+sw--0.266949152542,0.421906693712,0.822134387352,0.55764075067
+-------------------------------------------------------
+test set range:[2012-2013]-test_total:430
+test matrix shape:(430, 122906)
+objects with labels: (430, 31)
+labels predicted shape:(430, 31)
+labels predicted shape:(430, 31)
+['3DS - 2DS - NDS', 'Achat - Arrivage', 'Apple', 'Avis - Critique', 'Bande Annonce', 'Blu-Ray', 'Bon plan', 'Bulle de la semaine', u'B\xeata', u'Cin\xe9ma', u'Communiqu\xe9', 'Concours', 'Divers', 'Film', 'High Tech', 'Infographie', 'Insolite', u'Jeux Vid\xe9o', 'Logiciel', 'Ma vie', 'PS3', 'Partenaire', 'Preview - Test', 'Retro Gaming', u'R\xe9seaux Sociaux', u'R\xe9tro Test', 'Test High-Tech', u'Troph\xe9es - Succ\xe8s', u'Vid\xe9os', 'Xbox 360', u'\xc9v\xe9nement']
+scores[accuracy,precision,recall,f1-measure]:
+s--0.272093023256,0.423391812865,0.822727272727,0.559073359073
+scoresWa[accuracy,precision,recall,f1-measure]:
+sw--0.26976744186,0.40701754386,0.794520547945,0.538283062645
+-------------------------------------------------------
+test set range:[2012-2014]-test_total:610
+test matrix shape:(610, 122906)
+objects with labels: (610, 31)
+labels predicted shape:(610, 31)
+labels predicted shape:(610, 31)
+['3DS - 2DS - NDS', 'Achat - Arrivage', 'Apple', 'Avis - Critique', 'Bande Annonce', 'Blu-Ray', 'Bon plan', 'Bulle de la semaine', u'B\xeata', u'Cin\xe9ma', u'Communiqu\xe9', 'Concours', 'Divers', 'Film', 'High Tech', 'Infographie', 'Insolite', u'Jeux Vid\xe9o', 'Logiciel', 'Ma vie', 'PS3', 'Partenaire', 'Preview - Test', 'Retro Gaming', u'R\xe9seaux Sociaux', u'R\xe9tro Test', 'Test High-Tech', u'Troph\xe9es - Succ\xe8s', u'Vid\xe9os', 'Xbox 360', u'\xc9v\xe9nement']
+scores[accuracy,precision,recall,f1-measure]:
+s--0.285245901639,0.430034129693,0.826229508197,0.565656565657
+scoresWa[accuracy,precision,recall,f1-measure]:
+sw--0.281967213115,0.412969283276,0.796052631579,0.543820224719
+-------------------------------------------------------
+test set range:[2012-2015]-test_total:808
+test matrix shape:(808, 122906)
+objects with labels: (808, 31)
+labels predicted shape:(808, 31)
+labels predicted shape:(808, 31)
+['3DS - 2DS - NDS', 'Achat - Arrivage', 'Apple', 'Avis - Critique', 'Bande Annonce', 'Blu-Ray', 'Bon plan', 'Bulle de la semaine', u'B\xeata', u'Cin\xe9ma', u'Communiqu\xe9', 'Concours', 'Divers', 'Film', 'High Tech', 'Infographie', 'Insolite', u'Jeux Vid\xe9o', 'Logiciel', 'Ma vie', 'PS3', 'Partenaire', 'Preview - Test', 'Retro Gaming', u'R\xe9seaux Sociaux', u'R\xe9tro Test', 'Test High-Tech', u'Troph\xe9es - Succ\xe8s', u'Vid\xe9os', 'Xbox 360', u'\xc9v\xe9nement']
+scores[accuracy,precision,recall,f1-measure]:
+s--0.310643564356,0.441627751835,0.813267813268,0.572416774751
+scoresWa[accuracy,precision,recall,f1-measure]:
+sw--0.305693069307,0.421614409606,0.781211372064,0.547660311958
+-------------------------------------------------------
+0:09:44.087216
+===========================================================
+current_year:2012-train_total:929
+training matrix shape:(929, 180139)
+objects with labels: (929, 34) - number of categories: 34
+year:2012-train:236 w:1
+year:2011-train:436 w:0.666666666667
+year:2010-train:257 w:0.444444444444
+size of weights array:929
+test set range:[2013-2013]-test_total:194
+test matrix shape:(194, 180139)
+objects with labels: (194, 34)
+labels predicted shape:(194, 34)
+labels predicted shape:(194, 34)
+['3DS - 2DS - NDS', 'Achat - Arrivage', 'Apple', 'Avis - Critique', 'Bande Annonce', 'Blu-Ray', 'Bon plan', 'Bulle de la semaine', u'B\xeata', u'Cin\xe9ma', u'Communiqu\xe9', 'Concours', 'Divers', 'Film', 'High Tech', 'Infographie', 'Insolite', u'Jeux Vid\xe9o', 'Logiciel', 'Ma vie', 'PC', 'PS Vita', 'PS3', 'Partenaire', 'Preview - Test', 'Retro Gaming', u'R\xe9seaux Sociaux', u'R\xe9tro Test', 'Strip', 'Test High-Tech', u'Troph\xe9es - Succ\xe8s', u'Vid\xe9os', 'Xbox 360', u'\xc9v\xe9nement']
+scores[accuracy,precision,recall,f1-measure]:
+s--0.422680412371,0.632978723404,0.840989399293,0.722306525038
+scoresWa[accuracy,precision,recall,f1-measure]:
+sw--0.340206185567,0.515957446809,0.811715481172,0.630894308943
+-------------------------------------------------------
+test set range:[2013-2014]-test_total:374
+test matrix shape:(374, 180139)
+objects with labels: (374, 34)
+labels predicted shape:(374, 34)
+labels predicted shape:(374, 34)
+['3DS - 2DS - NDS', 'Achat - Arrivage', 'Apple', 'Avis - Critique', 'Bande Annonce', 'Blu-Ray', 'Bon plan', 'Bulle de la semaine', u'B\xeata', u'Cin\xe9ma', u'Communiqu\xe9', 'Concours', 'Divers', 'Film', 'High Tech', 'Infographie', 'Insolite', u'Jeux Vid\xe9o', 'Logiciel', 'Ma vie', 'PC', 'PS Vita', 'PS3', 'Partenaire', 'Preview - Test', 'Retro Gaming', u'R\xe9seaux Sociaux', u'R\xe9tro Test', 'Strip', 'Test High-Tech', u'Troph\xe9es - Succ\xe8s', u'Vid\xe9os', 'Xbox 360', u'\xc9v\xe9nement']
+scores[accuracy,precision,recall,f1-measure]:
+s--0.486631016043,0.677142857143,0.860254083485,0.757793764988
+scoresWa[accuracy,precision,recall,f1-measure]:
+sw--0.398395721925,0.571428571429,0.831600831601,0.677392040644
+-------------------------------------------------------
+test set range:[2013-2015]-test_total:572
+test matrix shape:(572, 180139)
+objects with labels: (572, 34)
+labels predicted shape:(572, 34)
+labels predicted shape:(572, 34)
+['3DS - 2DS - NDS', 'Achat - Arrivage', 'Apple', 'Avis - Critique', 'Bande Annonce', 'Blu-Ray', 'Bon plan', 'Bulle de la semaine', u'B\xeata', u'Cin\xe9ma', u'Communiqu\xe9', 'Concours', 'Divers', 'Film', 'High Tech', 'Infographie', 'Insolite', u'Jeux Vid\xe9o', 'Logiciel', 'Ma vie', 'PC', 'PS Vita', 'PS3', 'Partenaire', 'Preview - Test', 'Retro Gaming', u'R\xe9seaux Sociaux', u'R\xe9tro Test', 'Strip', 'Test High-Tech', u'Troph\xe9es - Succ\xe8s', u'Vid\xe9os', 'Xbox 360', u'\xc9v\xe9nement']
+scores[accuracy,precision,recall,f1-measure]:
+s--0.493006993007,0.674757281553,0.848595848596,0.751757706869
+scoresWa[accuracy,precision,recall,f1-measure]:
+sw--0.402097902098,0.566019417476,0.811977715877,0.66704805492
+-------------------------------------------------------
+0:23:59.764764
+===========================================================
+current_year:2013-train_total:1123
+training matrix shape:(1123, 230458)
+objects with labels: (1123, 38) - number of categories: 38
+year:2013-train:194 w:1
+year:2012-train:236 w:0.666666666667
+year:2011-train:436 w:0.444444444444
+year:2010-train:257 w:0.296296296296
+size of weights array:1123
+test set range:[2014-2014]-test_total:180
+test matrix shape:(180, 230458)
+objects with labels: (180, 38)
+labels predicted shape:(180, 38)
+labels predicted shape:(180, 38)
+['3DS - 2DS - NDS', 'Achat - Arrivage', u'Actualit\xe9s', 'Apple', 'Avis - Critique', 'Bande Annonce', 'Blu-Ray', 'Bon plan', 'Bulle de la semaine', u'B\xeata', u'Cin\xe9ma', u'Communiqu\xe9', 'Concours', 'Divers', 'Film', 'High Tech', 'Infographie', 'Insolite', 'Jeux Mobile', u'Jeux Vid\xe9o', 'Logiciel', 'Ma vie', 'Musique', u'Non class\xe9', 'PC', 'PS Vita', 'PS3', 'Partenaire', 'Preview - Test', 'Retro Gaming', u'R\xe9seaux Sociaux', u'R\xe9tro Test', 'Strip', 'Test High-Tech', u'Troph\xe9es - Succ\xe8s', u'Vid\xe9os', 'Xbox 360', u'\xc9v\xe9nement']
+scores[accuracy,precision,recall,f1-measure]:
+s--0.444444444444,0.683377308707,0.90243902439,0.777777777778
+scoresWa[accuracy,precision,recall,f1-measure]:
+sw--0.311111111111,0.598944591029,0.893700787402,0.717219589258
+-------------------------------------------------------
+test set range:[2014-2015]-test_total:378
+test matrix shape:(378, 230458)
+objects with labels: (378, 38)
+labels predicted shape:(378, 38)
+labels predicted shape:(378, 38)
+['3DS - 2DS - NDS', 'Achat - Arrivage', u'Actualit\xe9s', 'Apple', 'Avis - Critique', 'Bande Annonce', 'Blu-Ray', 'Bon plan', 'Bulle de la semaine', u'B\xeata', u'Cin\xe9ma', u'Communiqu\xe9', 'Concours', 'Divers', 'Film', 'High Tech', 'Infographie', 'Insolite', 'Jeux Mobile', u'Jeux Vid\xe9o', 'Logiciel', 'Ma vie', 'Musique', u'Non class\xe9', 'PC', 'PS Vita', 'PS3', 'Partenaire', 'Preview - Test', 'Retro Gaming', u'R\xe9seaux Sociaux', u'R\xe9tro Test', 'Strip', 'Test High-Tech', u'Troph\xe9es - Succ\xe8s', u'Vid\xe9os', 'Xbox 360', u'\xc9v\xe9nement']
+scores[accuracy,precision,recall,f1-measure]:
+s--0.436507936508,0.663157894737,0.873483535529,0.753926701571
+scoresWa[accuracy,precision,recall,f1-measure]:
+sw--0.320105820106,0.567105263158,0.870707070707,0.686852589641
+-------------------------------------------------------
+0:45:11.451605
+===========================================================
+current_year:2014-train_total:1303
+training matrix shape:(1303, 276667)
+objects with labels: (1303, 40) - number of categories: 40
+year:2014-train:180 w:1
+year:2013-train:194 w:0.666666666667
+year:2012-train:236 w:0.444444444444
+year:2011-train:436 w:0.296296296296
+year:2010-train:257 w:0.197530864198
+size of weights array:1303
+test set range:[2015-2015]-test_total:198
+test matrix shape:(198, 276667)
+objects with labels: (198, 40)
+labels predicted shape:(198, 40)
+labels predicted shape:(198, 40)
+['2 heures sur ...', '3DS - 2DS - NDS', 'Achat - Arrivage', u'Actualit\xe9s', 'Apple', 'Avis - Critique', 'Bande Annonce', 'Blu-Ray', 'Bon plan', 'Bulle de la semaine', u'B\xeata', u'Cin\xe9ma', u'Communiqu\xe9', 'Concours', 'Divers', 'Film', 'High Tech', 'Infographie', 'Insolite', 'Jeux Mobile', u'Jeux Vid\xe9o', 'Logiciel', 'Ma vie', 'Musique', u'Non class\xe9', 'PC', 'PS Vita', 'PS3', 'Partenaire', 'Preview - Test', 'Retro Gaming', u'R\xe9seaux Sociaux', u'R\xe9tro Test', 'Strip', u'S\xe9rie TV', 'Test High-Tech', u'Troph\xe9es - Succ\xe8s', u'Vid\xe9os', 'Xbox 360', u'\xc9v\xe9nement']
+scores[accuracy,precision,recall,f1-measure]:
+s--0.484848484848,0.673469387755,0.868421052632,0.758620689655
+scoresWa[accuracy,precision,recall,f1-measure]:
+sw--0.388888888889,0.566326530612,0.840909090909,0.676829268293
+-------------------------------------------------------
+1:14:02.591595
+===========================================================

@@ -10,6 +10,7 @@ test matrix shape:(191, 63533)
 objects with labels: (191, 28)
 labels predicted shape:(191, 28)
 labels predicted shape:(191, 28)
+['BD', u'Cin\xe9ma', 'Commande', 'Concours', u'D\xe9ballage', 'Goodies', 'High-tech', 'Insolite', u'Jeux vid\xe9o', 'Mangas', 'Musique', 'Nintendo', u'Non class\xe9', 'PC', 'PS3', 'PSP', u'Pr\xe9sentation', 'WII', 'Xbox 360', 'achat', 'actu', 'arrivage', 'avis', 'critique', 'iPhone', 'japon', 'test', u'\xc0 la une']
 scores[accuracy,precision,recall,f1-measure]:
 s--0.0942408376963,0.410881801126,0.799270072993,0.542750929368
 scoresWa[accuracy,precision,recall,f1-measure]:
@@ -20,6 +21,7 @@ test matrix shape:(273, 63533)
 objects with labels: (273, 28)
 labels predicted shape:(273, 28)
 labels predicted shape:(273, 28)
+['BD', u'Cin\xe9ma', 'Commande', 'Concours', u'D\xe9ballage', 'Goodies', 'High-tech', 'Insolite', u'Jeux vid\xe9o', 'Mangas', 'Musique', 'Nintendo', u'Non class\xe9', 'PC', 'PS3', 'PSP', u'Pr\xe9sentation', 'WII', 'Xbox 360', 'achat', 'actu', 'arrivage', 'avis', 'critique', 'iPhone', 'japon', 'test', u'\xc0 la une']
 scores[accuracy,precision,recall,f1-measure]:
 s--0.0879120879121,0.400832177531,0.802777777778,0.534690101758
 scoresWa[accuracy,precision,recall,f1-measure]:
@@ -30,6 +32,7 @@ test matrix shape:(371, 63533)
 objects with labels: (371, 28)
 labels predicted shape:(371, 28)
 labels predicted shape:(371, 28)
+['BD', u'Cin\xe9ma', 'Commande', 'Concours', u'D\xe9ballage', 'Goodies', 'High-tech', 'Insolite', u'Jeux vid\xe9o', 'Mangas', 'Musique', 'Nintendo', u'Non class\xe9', 'PC', 'PS3', 'PSP', u'Pr\xe9sentation', 'WII', 'Xbox 360', 'achat', 'actu', 'arrivage', 'avis', 'critique', 'iPhone', 'japon', 'test', u'\xc0 la une']
 scores[accuracy,precision,recall,f1-measure]:
 s--0.078167115903,0.380467955239,0.802575107296,0.516218081435
 scoresWa[accuracy,precision,recall,f1-measure]:
@@ -40,6 +43,7 @@ test matrix shape:(516, 63533)
 objects with labels: (516, 28)
 labels predicted shape:(516, 28)
 labels predicted shape:(516, 28)
+['BD', u'Cin\xe9ma', 'Commande', 'Concours', u'D\xe9ballage', 'Goodies', 'High-tech', 'Insolite', u'Jeux vid\xe9o', 'Mangas', 'Musique', 'Nintendo', u'Non class\xe9', 'PC', 'PS3', 'PSP', u'Pr\xe9sentation', 'WII', 'Xbox 360', 'achat', 'actu', 'arrivage', 'avis', 'critique', 'iPhone', 'japon', 'test', u'\xc0 la une']
 scores[accuracy,precision,recall,f1-measure]:
 s--0.062015503876,0.348087021755,0.775919732441,0.480580010357
 scoresWa[accuracy,precision,recall,f1-measure]:
@@ -50,12 +54,13 @@ test matrix shape:(644, 63533)
 objects with labels: (644, 28)
 labels predicted shape:(644, 28)
 labels predicted shape:(644, 28)
+['BD', u'Cin\xe9ma', 'Commande', 'Concours', u'D\xe9ballage', 'Goodies', 'High-tech', 'Insolite', u'Jeux vid\xe9o', 'Mangas', 'Musique', 'Nintendo', u'Non class\xe9', 'PC', 'PS3', 'PSP', u'Pr\xe9sentation', 'WII', 'Xbox 360', 'achat', 'actu', 'arrivage', 'avis', 'critique', 'iPhone', 'japon', 'test', u'\xc0 la une']
 scores[accuracy,precision,recall,f1-measure]:
 s--0.054347826087,0.32256097561,0.771137026239,0.454858125537
 scoresWa[accuracy,precision,recall,f1-measure]:
 sw--0.054347826087,0.32256097561,0.771137026239,0.454858125537
 -------------------------------------------------------
-0:01:19.233681
+0:03:34.313208
 ===========================================================
 current_year:2011-train_total:681
 training matrix shape:(681, 88266)
@@ -68,6 +73,7 @@ test matrix shape:(82, 88266)
 objects with labels: (82, 32)
 labels predicted shape:(82, 32)
 labels predicted shape:(82, 32)
+['Android', 'BD', u'Cin\xe9ma', 'Commande', 'Concours', 'Divers', u'D\xe9ballage', 'Goodies', 'High-tech', 'Insolite', u'Jeux vid\xe9o', 'Mangas', 'Musique', 'Nintendo', u'Non class\xe9', 'PC', 'PS3', 'PSP', 'PSVita', u'Pr\xe9sentation', u'T\xe9l\xe9phonie', 'WII', 'Xbox 360', 'achat', 'actu', 'arrivage', 'avis', 'critique', 'iPhone', 'japon', 'test', u'\xc0 la une']
 scores[accuracy,precision,recall,f1-measure]:
 s--0.0609756097561,0.395652173913,0.834862385321,0.536873156342
 scoresWa[accuracy,precision,recall,f1-measure]:
@@ -78,6 +84,7 @@ test matrix shape:(180, 88266)
 objects with labels: (180, 32)
 labels predicted shape:(180, 32)
 labels predicted shape:(180, 32)
+['Android', 'BD', u'Cin\xe9ma', 'Commande', 'Concours', 'Divers', u'D\xe9ballage', 'Goodies', 'High-tech', 'Insolite', u'Jeux vid\xe9o', 'Mangas', 'Musique', 'Nintendo', u'Non class\xe9', 'PC', 'PS3', 'PSP', 'PSVita', u'Pr\xe9sentation', u'T\xe9l\xe9phonie', 'WII', 'Xbox 360', 'achat', 'actu', 'arrivage', 'avis', 'critique', 'iPhone', 'japon', 'test', u'\xc0 la une']
 scores[accuracy,precision,recall,f1-measure]:
 s--0.0444444444444,0.361058601134,0.845132743363,0.505960264901
 scoresWa[accuracy,precision,recall,f1-measure]:
@@ -88,6 +95,7 @@ test matrix shape:(325, 88266)
 objects with labels: (325, 32)
 labels predicted shape:(325, 32)
 labels predicted shape:(325, 32)
+['Android', 'BD', u'Cin\xe9ma', 'Commande', 'Concours', 'Divers', u'D\xe9ballage', 'Goodies', 'High-tech', 'Insolite', u'Jeux vid\xe9o', 'Mangas', 'Musique', 'Nintendo', u'Non class\xe9', 'PC', 'PS3', 'PSP', 'PSVita', u'Pr\xe9sentation', u'T\xe9l\xe9phonie', 'WII', 'Xbox 360', 'achat', 'actu', 'arrivage', 'avis', 'critique', 'iPhone', 'japon', 'test', u'\xc0 la une']
 scores[accuracy,precision,recall,f1-measure]:
 s--0.0338461538462,0.326373626374,0.811475409836,0.465517241379
 scoresWa[accuracy,precision,recall,f1-measure]:
@@ -98,12 +106,13 @@ test matrix shape:(453, 88266)
 objects with labels: (453, 32)
 labels predicted shape:(453, 32)
 labels predicted shape:(453, 32)
+['Android', 'BD', u'Cin\xe9ma', 'Commande', 'Concours', 'Divers', u'D\xe9ballage', 'Goodies', 'High-tech', 'Insolite', u'Jeux vid\xe9o', 'Mangas', 'Musique', 'Nintendo', u'Non class\xe9', 'PC', 'PS3', 'PSP', 'PSVita', u'Pr\xe9sentation', u'T\xe9l\xe9phonie', 'WII', 'Xbox 360', 'achat', 'actu', 'arrivage', 'avis', 'critique', 'iPhone', 'japon', 'test', u'\xc0 la une']
 scores[accuracy,precision,recall,f1-measure]:
 s--0.0286975717439,0.302493966211,0.815618221258,0.441314553991
 scoresWa[accuracy,precision,recall,f1-measure]:
 sw--0.0264900662252,0.252614641995,0.857923497268,0.390304536979
 -------------------------------------------------------
-0:02:43.806810
+0:09:22.799721
 ===========================================================
 current_year:2012-train_total:763
 training matrix shape:(763, 106803)
@@ -117,6 +126,7 @@ test matrix shape:(98, 106803)
 objects with labels: (98, 32)
 labels predicted shape:(98, 32)
 labels predicted shape:(98, 32)
+['Android', 'BD', u'Cin\xe9ma', 'Commande', 'Concours', 'Divers', u'D\xe9ballage', 'Goodies', 'High-tech', 'Insolite', u'Jeux vid\xe9o', 'Mangas', 'Musique', 'Nintendo', u'Non class\xe9', 'PC', 'PS3', 'PSP', 'PSVita', u'Pr\xe9sentation', u'T\xe9l\xe9phonie', 'WII', 'Xbox 360', 'achat', 'actu', 'arrivage', 'avis', 'critique', 'iPhone', 'japon', 'test', u'\xc0 la une']
 scores[accuracy,precision,recall,f1-measure]:
 s--0.0918367346939,0.387959866221,0.878787878788,0.538283062645
 scoresWa[accuracy,precision,recall,f1-measure]:
@@ -127,6 +137,7 @@ test matrix shape:(243, 106803)
 objects with labels: (243, 32)
 labels predicted shape:(243, 32)
 labels predicted shape:(243, 32)
+['Android', 'BD', u'Cin\xe9ma', 'Commande', 'Concours', 'Divers', u'D\xe9ballage', 'Goodies', 'High-tech', 'Insolite', u'Jeux vid\xe9o', 'Mangas', 'Musique', 'Nintendo', u'Non class\xe9', 'PC', 'PS3', 'PSP', 'PSVita', u'Pr\xe9sentation', u'T\xe9l\xe9phonie', 'WII', 'Xbox 360', 'achat', 'actu', 'arrivage', 'avis', 'critique', 'iPhone', 'japon', 'test', u'\xc0 la une']
 scores[accuracy,precision,recall,f1-measure]:
 s--0.0699588477366,0.35,0.859205776173,0.497387669801
 scoresWa[accuracy,precision,recall,f1-measure]:
@@ -137,12 +148,13 @@ test matrix shape:(371, 106803)
 objects with labels: (371, 32)
 labels predicted shape:(371, 32)
 labels predicted shape:(371, 32)
+['Android', 'BD', u'Cin\xe9ma', 'Commande', 'Concours', 'Divers', u'D\xe9ballage', 'Goodies', 'High-tech', 'Insolite', u'Jeux vid\xe9o', 'Mangas', 'Musique', 'Nintendo', u'Non class\xe9', 'PC', 'PS3', 'PSP', 'PSVita', u'Pr\xe9sentation', u'T\xe9l\xe9phonie', 'WII', 'Xbox 360', 'achat', 'actu', 'arrivage', 'avis', 'critique', 'iPhone', 'japon', 'test', u'\xc0 la une']
 scores[accuracy,precision,recall,f1-measure]:
 s--0.0566037735849,0.323790720632,0.863157894737,0.470926058866
 scoresWa[accuracy,precision,recall,f1-measure]:
 sw--0.0134770889488,0.224086870681,0.876447876448,0.356918238994
 -------------------------------------------------------
-0:04:09.865163
+0:16:57.111396
 ===========================================================
 current_year:2013-train_total:861
 training matrix shape:(861, 132499)
@@ -157,6 +169,7 @@ test matrix shape:(145, 132499)
 objects with labels: (145, 34)
 labels predicted shape:(145, 34)
 labels predicted shape:(145, 34)
+['Android', 'BD', u'Cin\xe9ma', 'Commande', 'Concours', 'Divers', u'D\xe9ballage', 'Goodies', 'High-tech', 'Insolite', u'Jeux vid\xe9o', 'Mangas', 'Musique', 'Nintendo', u'Non class\xe9', 'PC', 'PS3', 'PS4', 'PSP', 'PSVita', u'Pr\xe9sentation', u'T\xe9l\xe9phonie', 'WII', 'Xbox 360', 'Xbox One', 'achat', 'actu', 'arrivage', 'avis', 'critique', 'iPhone', 'japon', 'test', u'\xc0 la une']
 scores[accuracy,precision,recall,f1-measure]:
 s--0.0620689655172,0.347826086957,0.818181818182,0.48813559322
 scoresWa[accuracy,precision,recall,f1-measure]:
@@ -167,12 +180,13 @@ test matrix shape:(273, 132499)
 objects with labels: (273, 34)
 labels predicted shape:(273, 34)
 labels predicted shape:(273, 34)
+['Android', 'BD', u'Cin\xe9ma', 'Commande', 'Concours', 'Divers', u'D\xe9ballage', 'Goodies', 'High-tech', 'Insolite', u'Jeux vid\xe9o', 'Mangas', 'Musique', 'Nintendo', u'Non class\xe9', 'PC', 'PS3', 'PS4', 'PSP', 'PSVita', u'Pr\xe9sentation', u'T\xe9l\xe9phonie', 'WII', 'Xbox 360', 'Xbox One', 'achat', 'actu', 'arrivage', 'avis', 'critique', 'iPhone', 'japon', 'test', u'\xc0 la une']
 scores[accuracy,precision,recall,f1-measure]:
 s--0.040293040293,0.30991217064,0.845890410959,0.4536271809
 scoresWa[accuracy,precision,recall,f1-measure]:
 sw--0.010989010989,0.181932245922,0.828571428571,0.298353909465
 -------------------------------------------------------
-0:05:40.664633
+0:26:54.681568
 ===========================================================
 current_year:2014-train_total:1006
 training matrix shape:(1006, 167761)
@@ -188,11 +202,11 @@ test matrix shape:(128, 167761)
 objects with labels: (128, 36)
 labels predicted shape:(128, 36)
 labels predicted shape:(128, 36)
+['3DS', 'Android', 'BD', u'Cin\xe9ma', 'Commande', 'Concours', 'Divers', u'D\xe9ballage', 'Goodies', 'High-tech', 'Insolite', u'Jeux vid\xe9o', 'Mangas', 'Musique', 'Nintendo', u'Non class\xe9', 'PC', 'PS3', 'PS4', 'PSP', 'PSVita', u'Pr\xe9sentation', u'T\xe9l\xe9phonie', 'WII', 'Wii U', 'Xbox 360', 'Xbox One', 'achat', 'actu', 'arrivage', 'avis', 'critique', 'iPhone', 'japon', 'test', u'\xc0 la une']
 scores[accuracy,precision,recall,f1-measure]:
 s--0.0625,0.341902313625,0.904761904762,0.496268656716
 scoresWa[accuracy,precision,recall,f1-measure]:
 sw--0.0078125,0.167095115681,0.902777777778,0.281995661605
 -------------------------------------------------------
-0:07:21.916226
+0:41:24.120790
 ===========================================================
-Total time:0:07:23.153855

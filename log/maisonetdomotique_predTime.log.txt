@@ -10,6 +10,7 @@ test matrix shape:(5, 806)
 objects with labels: (5, 5)
 labels predicted shape:(5, 5)
 labels predicted shape:(5, 5)
+['Audio/Video', 'Constructeur', 'Maison', 'News', 'Terrain']
 scores[accuracy,precision,recall,f1-measure]:
 s--0.6,0.833333333333,1.0,0.909090909091
 scoresWa[accuracy,precision,recall,f1-measure]:
@@ -20,6 +21,7 @@ test matrix shape:(9, 806)
 objects with labels: (9, 5)
 labels predicted shape:(9, 5)
 labels predicted shape:(9, 5)
+['Audio/Video', 'Constructeur', 'Maison', 'News', 'Terrain']
 scores[accuracy,precision,recall,f1-measure]:
 s--0.444444444444,0.857142857143,0.666666666667,0.75
 scoresWa[accuracy,precision,recall,f1-measure]:
@@ -30,6 +32,7 @@ test matrix shape:(13, 806)
 objects with labels: (13, 5)
 labels predicted shape:(13, 5)
 labels predicted shape:(13, 5)
+['Audio/Video', 'Constructeur', 'Maison', 'News', 'Terrain']
 scores[accuracy,precision,recall,f1-measure]:
 s--0.307692307692,0.8125,0.5,0.619047619048
 scoresWa[accuracy,precision,recall,f1-measure]:
@@ -40,6 +43,7 @@ test matrix shape:(43, 806)
 objects with labels: (43, 5)
 labels predicted shape:(43, 5)
 labels predicted shape:(43, 5)
+['Audio/Video', 'Constructeur', 'Maison', 'News', 'Terrain']
 scores[accuracy,precision,recall,f1-measure]:
 s--0.093023255814,0.809523809524,0.197674418605,0.317757009346
 scoresWa[accuracy,precision,recall,f1-measure]:
@@ -50,6 +54,7 @@ test matrix shape:(75, 806)
 objects with labels: (75, 5)
 labels predicted shape:(75, 5)
 labels predicted shape:(75, 5)
+['Audio/Video', 'Constructeur', 'Maison', 'News', 'Terrain']
 scores[accuracy,precision,recall,f1-measure]:
 s--0.0533333333333,0.852941176471,0.193333333333,0.315217391304
 scoresWa[accuracy,precision,recall,f1-measure]:
@@ -60,6 +65,7 @@ test matrix shape:(119, 806)
 objects with labels: (119, 5)
 labels predicted shape:(119, 5)
 labels predicted shape:(119, 5)
+['Audio/Video', 'Constructeur', 'Maison', 'News', 'Terrain']
 scores[accuracy,precision,recall,f1-measure]:
 s--0.0336134453782,0.8125,0.163865546218,0.272727272727
 scoresWa[accuracy,precision,recall,f1-measure]:
@@ -70,6 +76,7 @@ test matrix shape:(215, 806)
 objects with labels: (215, 5)
 labels predicted shape:(215, 5)
 labels predicted shape:(215, 5)
+['Audio/Video', 'Constructeur', 'Maison', 'News', 'Terrain']
 scores[accuracy,precision,recall,f1-measure]:
 s--0.046511627907,0.88,0.153488372093,0.261386138614
 scoresWa[accuracy,precision,recall,f1-measure]:
@@ -80,12 +87,13 @@ test matrix shape:(334, 806)
 objects with labels: (334, 5)
 labels predicted shape:(334, 5)
 labels predicted shape:(334, 5)
+['Audio/Video', 'Constructeur', 'Maison', 'News', 'Terrain']
 scores[accuracy,precision,recall,f1-measure]:
 s--0.0299401197605,0.886075949367,0.104790419162,0.187416331995
 scoresWa[accuracy,precision,recall,f1-measure]:
 sw--0.0299401197605,0.886075949367,0.104790419162,0.187416331995
 -------------------------------------------------------
-0:00:01.159974
+0:00:01.174944
 ===========================================================
 current_year:2008-train_total:8
 training matrix shape:(8, 1753)
@@ -98,6 +106,7 @@ test matrix shape:(4, 1753)
 objects with labels: (4, 6)
 labels predicted shape:(4, 6)
 labels predicted shape:(4, 6)
+['Administratif', 'Audio/Video', 'Constructeur', 'Maison', 'News', 'Terrain']
 scores[accuracy,precision,recall,f1-measure]:
 s--0.0,0.666666666667,0.25,0.363636363636
 scoresWa[accuracy,precision,recall,f1-measure]:
@@ -108,6 +117,7 @@ test matrix shape:(8, 1753)
 objects with labels: (8, 6)
 labels predicted shape:(8, 6)
 labels predicted shape:(8, 6)
+['Administratif', 'Audio/Video', 'Constructeur', 'Maison', 'News', 'Terrain']
 scores[accuracy,precision,recall,f1-measure]:
 s--0.0,0.6,0.1875,0.285714285714
 scoresWa[accuracy,precision,recall,f1-measure]:
@@ -118,6 +128,7 @@ test matrix shape:(38, 1753)
 objects with labels: (38, 6)
 labels predicted shape:(38, 6)
 labels predicted shape:(38, 6)
+['Administratif', 'Audio/Video', 'Constructeur', 'Maison', 'News', 'Terrain']
 scores[accuracy,precision,recall,f1-measure]:
 s--0.0,0.7,0.0921052631579,0.162790697674
 scoresWa[accuracy,precision,recall,f1-measure]:
@@ -128,6 +139,7 @@ test matrix shape:(70, 1753)
 objects with labels: (70, 6)
 labels predicted shape:(70, 6)
 labels predicted shape:(70, 6)
+['Administratif', 'Audio/Video', 'Constructeur', 'Maison', 'News', 'Terrain']
 scores[accuracy,precision,recall,f1-measure]:
 s--0.0,0.826086956522,0.135714285714,0.233128834356
 scoresWa[accuracy,precision,recall,f1-measure]:
@@ -138,6 +150,7 @@ test matrix shape:(114, 1753)
 objects with labels: (114, 6)
 labels predicted shape:(114, 6)
 labels predicted shape:(114, 6)
+['Administratif', 'Audio/Video', 'Constructeur', 'Maison', 'News', 'Terrain']
 scores[accuracy,precision,recall,f1-measure]:
 s--0.0,0.783783783784,0.127192982456,0.218867924528
 scoresWa[accuracy,precision,recall,f1-measure]:
@@ -148,6 +161,7 @@ test matrix shape:(210, 1753)
 objects with labels: (210, 6)
 labels predicted shape:(210, 6)
 labels predicted shape:(210, 6)
+['Administratif', 'Audio/Video', 'Constructeur', 'Maison', 'News', 'Terrain']
 scores[accuracy,precision,recall,f1-measure]:
 s--0.0285714285714,0.875,0.133333333333,0.231404958678
 scoresWa[accuracy,precision,recall,f1-measure]:
@@ -158,12 +172,13 @@ test matrix shape:(329, 1753)
 objects with labels: (329, 6)
 labels predicted shape:(329, 6)
 labels predicted shape:(329, 6)
+['Administratif', 'Audio/Video', 'Constructeur', 'Maison', 'News', 'Terrain']
 scores[accuracy,precision,recall,f1-measure]:
 s--0.0182370820669,0.882352941176,0.0911854103343,0.165289256198
 scoresWa[accuracy,precision,recall,f1-measure]:
 sw--0.0182370820669,0.882352941176,0.0911854103343,0.165289256198
 -------------------------------------------------------
-0:00:02.250488
+0:00:02.343414
 ===========================================================
 current_year:2009-train_total:12
 training matrix shape:(12, 5332)
@@ -177,6 +192,7 @@ test matrix shape:(4, 5332)
 objects with labels: (4, 9)
 labels predicted shape:(4, 9)
 labels predicted shape:(4, 9)
+['Administratif', 'Audio/Video', 'Constructeur', 'Guides Chauffage', 'Guides Informatiques', 'Maison', 'News', 'Terrain', 'Tests Logiciels']
 scores[accuracy,precision,recall,f1-measure]:
 s--0.0,0.5,0.125,0.2
 scoresWa[accuracy,precision,recall,f1-measure]:
@@ -187,6 +203,7 @@ test matrix shape:(34, 5332)
 objects with labels: (34, 9)
 labels predicted shape:(34, 9)
 labels predicted shape:(34, 9)
+['Administratif', 'Audio/Video', 'Constructeur', 'Guides Chauffage', 'Guides Informatiques', 'Maison', 'News', 'Terrain', 'Tests Logiciels']
 scores[accuracy,precision,recall,f1-measure]:
 s--0.0,0.384615384615,0.0746268656716,0.125
 scoresWa[accuracy,precision,recall,f1-measure]:
@@ -197,6 +214,7 @@ test matrix shape:(66, 5332)
 objects with labels: (66, 9)
 labels predicted shape:(66, 9)
 labels predicted shape:(66, 9)
+['Administratif', 'Audio/Video', 'Constructeur', 'Guides Chauffage', 'Guides Informatiques', 'Maison', 'News', 'Terrain', 'Tests Logiciels']
 scores[accuracy,precision,recall,f1-measure]:
 s--0.0,0.515151515152,0.130769230769,0.208588957055
 scoresWa[accuracy,precision,recall,f1-measure]:
@@ -207,6 +225,7 @@ test matrix shape:(110, 5332)
 objects with labels: (110, 9)
 labels predicted shape:(110, 9)
 labels predicted shape:(110, 9)
+['Administratif', 'Audio/Video', 'Constructeur', 'Guides Chauffage', 'Guides Informatiques', 'Maison', 'News', 'Terrain', 'Tests Logiciels']
 scores[accuracy,precision,recall,f1-measure]:
 s--0.0,0.5,0.123853211009,0.198529411765
 scoresWa[accuracy,precision,recall,f1-measure]:
@@ -217,6 +236,7 @@ test matrix shape:(206, 5332)
 objects with labels: (206, 9)
 labels predicted shape:(206, 9)
 labels predicted shape:(206, 9)
+['Administratif', 'Audio/Video', 'Constructeur', 'Guides Chauffage', 'Guides Informatiques', 'Maison', 'News', 'Terrain', 'Tests Logiciels']
 scores[accuracy,precision,recall,f1-measure]:
 s--0.0291262135922,0.574468085106,0.131707317073,0.214285714286
 scoresWa[accuracy,precision,recall,f1-measure]:
@@ -227,12 +247,13 @@ test matrix shape:(325, 5332)
 objects with labels: (325, 9)
 labels predicted shape:(325, 9)
 labels predicted shape:(325, 9)
+['Administratif', 'Audio/Video', 'Constructeur', 'Guides Chauffage', 'Guides Informatiques', 'Maison', 'News', 'Terrain', 'Tests Logiciels']
 scores[accuracy,precision,recall,f1-measure]:
 s--0.0184615384615,0.585858585859,0.0895061728395,0.155287817938
 scoresWa[accuracy,precision,recall,f1-measure]:
 sw--0.0184615384615,0.585858585859,0.0892307692308,0.154873164219
 -------------------------------------------------------
-0:00:03.504238
+0:00:03.937239
 ===========================================================
 current_year:2010-train_total:16
 training matrix shape:(16, 6865)
@@ -247,6 +268,7 @@ test matrix shape:(30, 6865)
 objects with labels: (30, 12)
 labels predicted shape:(30, 12)
 labels predicted shape:(30, 12)
+['Administratif', 'Audio/Video', 'Constructeur', 'Domotique', 'Guides Chauffage', 'Guides Informatiques', 'Guides Securite', 'Maison', 'News', 'PLCBUS', 'Terrain', 'Tests Logiciels']
 scores[accuracy,precision,recall,f1-measure]:
 s--0.0666666666667,0.222222222222,0.148148148148,0.177777777778
 scoresWa[accuracy,precision,recall,f1-measure]:
@@ -257,6 +279,7 @@ test matrix shape:(62, 6865)
 objects with labels: (62, 12)
 labels predicted shape:(62, 12)
 labels predicted shape:(62, 12)
+['Administratif', 'Audio/Video', 'Constructeur', 'Domotique', 'Guides Chauffage', 'Guides Informatiques', 'Guides Securite', 'Maison', 'News', 'PLCBUS', 'Terrain', 'Tests Logiciels']
 scores[accuracy,precision,recall,f1-measure]:
 s--0.145161290323,0.355555555556,0.275862068966,0.31067961165
 scoresWa[accuracy,precision,recall,f1-measure]:
@@ -267,6 +290,7 @@ test matrix shape:(106, 6865)
 objects with labels: (106, 12)
 labels predicted shape:(106, 12)
 labels predicted shape:(106, 12)
+['Administratif', 'Audio/Video', 'Constructeur', 'Domotique', 'Guides Chauffage', 'Guides Informatiques', 'Guides Securite', 'Maison', 'News', 'PLCBUS', 'Terrain', 'Tests Logiciels']
 scores[accuracy,precision,recall,f1-measure]:
 s--0.150943396226,0.328358208955,0.224489795918,0.266666666667
 scoresWa[accuracy,precision,recall,f1-measure]:
@@ -277,6 +301,7 @@ test matrix shape:(202, 6865)
 objects with labels: (202, 12)
 labels predicted shape:(202, 12)
 labels predicted shape:(202, 12)
+['Administratif', 'Audio/Video', 'Constructeur', 'Domotique', 'Guides Chauffage', 'Guides Informatiques', 'Guides Securite', 'Maison', 'News', 'PLCBUS', 'Terrain', 'Tests Logiciels']
 scores[accuracy,precision,recall,f1-measure]:
 s--0.128712871287,0.347457627119,0.215789473684,0.266233766234
 scoresWa[accuracy,precision,recall,f1-measure]:
@@ -287,12 +312,13 @@ test matrix shape:(321, 6865)
 objects with labels: (321, 12)
 labels predicted shape:(321, 12)
 labels predicted shape:(321, 12)
+['Administratif', 'Audio/Video', 'Constructeur', 'Domotique', 'Guides Chauffage', 'Guides Informatiques', 'Guides Securite', 'Maison', 'News', 'PLCBUS', 'Terrain', 'Tests Logiciels']
 scores[accuracy,precision,recall,f1-measure]:
 s--0.0872274143302,0.25730994152,0.131736526946,0.174257425743
 scoresWa[accuracy,precision,recall,f1-measure]:
 sw--0.0404984423676,0.27485380117,0.111904761905,0.159052453469
 -------------------------------------------------------
-0:00:04.992555
+0:00:05.985990
 ===========================================================
 current_year:2011-train_total:46
 training matrix shape:(46, 26932)
@@ -308,6 +334,7 @@ test matrix shape:(32, 26932)
 objects with labels: (32, 22)
 labels predicted shape:(32, 22)
 labels predicted shape:(32, 22)
+['Administratif', 'Audio/Video', 'Constructeur', 'Domotique', 'Guides Automatismes', 'Guides Box Domotique', 'Guides Chauffage', 'Guides Eclairage', 'Guides Informatiques', 'Guides Securite', 'Maison', 'News', 'PLCBUS', 'Terrain', 'Test Materiel Informatique', 'Test Peripheriques Domotiques', 'Tests Box Domotique', 'Tests Equipement Maison', 'Tests Logiciels', 'Tests Objets Connectes', 'Tests Robots', 'Zibase']
 scores[accuracy,precision,recall,f1-measure]:
 s--0.0,0.0,0.0,0.0
 scoresWa[accuracy,precision,recall,f1-measure]:
@@ -318,6 +345,7 @@ test matrix shape:(76, 26932)
 objects with labels: (76, 22)
 labels predicted shape:(76, 22)
 labels predicted shape:(76, 22)
+['Administratif', 'Audio/Video', 'Constructeur', 'Domotique', 'Guides Automatismes', 'Guides Box Domotique', 'Guides Chauffage', 'Guides Eclairage', 'Guides Informatiques', 'Guides Securite', 'Maison', 'News', 'PLCBUS', 'Terrain', 'Test Materiel Informatique', 'Test Peripheriques Domotiques', 'Tests Box Domotique', 'Tests Equipement Maison', 'Tests Logiciels', 'Tests Objets Connectes', 'Tests Robots', 'Zibase']
 scores[accuracy,precision,recall,f1-measure]:
 s--0.118421052632,0.0,0.0,0.0
 scoresWa[accuracy,precision,recall,f1-measure]:
@@ -328,6 +356,7 @@ test matrix shape:(172, 26932)
 objects with labels: (172, 22)
 labels predicted shape:(172, 22)
 labels predicted shape:(172, 22)
+['Administratif', 'Audio/Video', 'Constructeur', 'Domotique', 'Guides Automatismes', 'Guides Box Domotique', 'Guides Chauffage', 'Guides Eclairage', 'Guides Informatiques', 'Guides Securite', 'Maison', 'News', 'PLCBUS', 'Terrain', 'Test Materiel Informatique', 'Test Peripheriques Domotiques', 'Tests Box Domotique', 'Tests Equipement Maison', 'Tests Logiciels', 'Tests Objets Connectes', 'Tests Robots', 'Zibase']
 scores[accuracy,precision,recall,f1-measure]:
 s--0.273255813953,0.0,0.0,0.0
 scoresWa[accuracy,precision,recall,f1-measure]:
@@ -338,12 +367,13 @@ test matrix shape:(291, 26932)
 objects with labels: (291, 22)
 labels predicted shape:(291, 22)
 labels predicted shape:(291, 22)
+['Administratif', 'Audio/Video', 'Constructeur', 'Domotique', 'Guides Automatismes', 'Guides Box Domotique', 'Guides Chauffage', 'Guides Eclairage', 'Guides Informatiques', 'Guides Securite', 'Maison', 'News', 'PLCBUS', 'Terrain', 'Test Materiel Informatique', 'Test Peripheriques Domotiques', 'Tests Box Domotique', 'Tests Equipement Maison', 'Tests Logiciels', 'Tests Objets Connectes', 'Tests Robots', 'Zibase']
 scores[accuracy,precision,recall,f1-measure]:
 s--0.384879725086,0.0,0.0,0.0
 scoresWa[accuracy,precision,recall,f1-measure]:
 sw--0.384879725086,0.0,0.0,0.0
 -------------------------------------------------------
-0:00:09.145902
+0:00:15.798721
 ===========================================================
 current_year:2012-train_total:78
 training matrix shape:(78, 44036)
@@ -360,6 +390,7 @@ test matrix shape:(44, 44036)
 objects with labels: (44, 27)
 labels predicted shape:(44, 27)
 labels predicted shape:(44, 27)
+['Administratif', 'Audio/Video', 'BlyssBox', 'Constructeur', 'Domotique', 'Evenements', 'Guides Automatismes', 'Guides Box Domotique', 'Guides Chauffage', 'Guides Eclairage', 'Guides Informatiques', 'Guides Securite', 'Le Blog', 'Maison', 'News', 'PLCBUS', 'Robotique', 'Terrain', 'Test Materiel Informatique', 'Test Peripheriques Domotiques', 'Tests Audio / Video', 'Tests Box Domotique', 'Tests Equipement Maison', 'Tests Logiciels', 'Tests Objets Connectes', 'Tests Robots', 'Zibase']
 scores[accuracy,precision,recall,f1-measure]:
 s--0.181818181818,0.0196078431373,1.0,0.0384615384615
 scoresWa[accuracy,precision,recall,f1-measure]:
@@ -370,6 +401,7 @@ test matrix shape:(140, 44036)
 objects with labels: (140, 27)
 labels predicted shape:(140, 27)
 labels predicted shape:(140, 27)
+['Administratif', 'Audio/Video', 'BlyssBox', 'Constructeur', 'Domotique', 'Evenements', 'Guides Automatismes', 'Guides Box Domotique', 'Guides Chauffage', 'Guides Eclairage', 'Guides Informatiques', 'Guides Securite', 'Le Blog', 'Maison', 'News', 'PLCBUS', 'Robotique', 'Terrain', 'Test Materiel Informatique', 'Test Peripheriques Domotiques', 'Tests Audio / Video', 'Tests Box Domotique', 'Tests Equipement Maison', 'Tests Logiciels', 'Tests Objets Connectes', 'Tests Robots', 'Zibase']
 scores[accuracy,precision,recall,f1-measure]:
 s--0.271428571429,0.0143884892086,0.666666666667,0.0281690140845
 scoresWa[accuracy,precision,recall,f1-measure]:
@@ -380,12 +412,13 @@ test matrix shape:(259, 44036)
 objects with labels: (259, 27)
 labels predicted shape:(259, 27)
 labels predicted shape:(259, 27)
+['Administratif', 'Audio/Video', 'BlyssBox', 'Constructeur', 'Domotique', 'Evenements', 'Guides Automatismes', 'Guides Box Domotique', 'Guides Chauffage', 'Guides Eclairage', 'Guides Informatiques', 'Guides Securite', 'Le Blog', 'Maison', 'News', 'PLCBUS', 'Robotique', 'Terrain', 'Test Materiel Informatique', 'Test Peripheriques Domotiques', 'Tests Audio / Video', 'Tests Box Domotique', 'Tests Equipement Maison', 'Tests Logiciels', 'Tests Objets Connectes', 'Tests Robots', 'Zibase']
 scores[accuracy,precision,recall,f1-measure]:
 s--0.362934362934,0.00990099009901,0.285714285714,0.0191387559809
 scoresWa[accuracy,precision,recall,f1-measure]:
 sw--0.362934362934,0.0,0.0,0.0
 -------------------------------------------------------
-0:00:15.761484
+0:00:38.053870
 ===========================================================
 current_year:2013-train_total:122
 training matrix shape:(122, 60937)
@@ -403,6 +436,7 @@ test matrix shape:(96, 60937)
 objects with labels: (96, 32)
 labels predicted shape:(96, 32)
 labels predicted shape:(96, 32)
+['Administratif', 'Audio/Video', 'BlyssBox', 'Constructeur', 'Domotique', 'Evenements', 'Guides Audio / Video', 'Guides Automatismes', 'Guides Box Domotique', 'Guides Chauffage', 'Guides Eclairage', 'Guides Informatiques', 'Guides Securite', 'Informatique', 'Le Blog', 'Maison', 'News', 'PLCBUS', 'Peripheriques EnOcean', 'Peripheriques Wifi', 'Peripheriques Z-Wave', 'Robotique', 'Terrain', 'Test Materiel Informatique', 'Test Peripheriques Domotiques', 'Tests Audio / Video', 'Tests Box Domotique', 'Tests Equipement Maison', 'Tests Logiciels', 'Tests Objets Connectes', 'Tests Robots', 'Zibase']
 scores[accuracy,precision,recall,f1-measure]:
 s--0.166666666667,0.00961538461538,1.0,0.0190476190476
 scoresWa[accuracy,precision,recall,f1-measure]:
@@ -413,12 +447,13 @@ test matrix shape:(215, 60937)
 objects with labels: (215, 32)
 labels predicted shape:(215, 32)
 labels predicted shape:(215, 32)
+['Administratif', 'Audio/Video', 'BlyssBox', 'Constructeur', 'Domotique', 'Evenements', 'Guides Audio / Video', 'Guides Automatismes', 'Guides Box Domotique', 'Guides Chauffage', 'Guides Eclairage', 'Guides Informatiques', 'Guides Securite', 'Informatique', 'Le Blog', 'Maison', 'News', 'PLCBUS', 'Peripheriques EnOcean', 'Peripheriques Wifi', 'Peripheriques Z-Wave', 'Robotique', 'Terrain', 'Test Materiel Informatique', 'Test Peripheriques Domotiques', 'Tests Audio / Video', 'Tests Box Domotique', 'Tests Equipement Maison', 'Tests Logiciels', 'Tests Objets Connectes', 'Tests Robots', 'Zibase']
 scores[accuracy,precision,recall,f1-measure]:
 s--0.306976744186,0.00578034682081,0.25,0.0112994350282
 scoresWa[accuracy,precision,recall,f1-measure]:
 sw--0.306976744186,0.0,0.0,0.0
 -------------------------------------------------------
-0:00:25.036016
+0:01:20.992612
 ===========================================================
 current_year:2014-train_total:218
 training matrix shape:(218, 89199)
@@ -437,11 +472,11 @@ test matrix shape:(119, 89199)
 objects with labels: (119, 38)
 labels predicted shape:(119, 38)
 labels predicted shape:(119, 38)
+['Administratif', 'Audio/Video', 'BlyssBox', 'Constructeur', 'Domotique', 'Evenements', 'Guides Audio / Video', 'Guides Automatismes', 'Guides Box Domotique', 'Guides Chauffage', 'Guides Eclairage', 'Guides Informatiques', 'Guides Securite', 'Informatique', 'Le Blog', 'Maison', 'News', 'Objets Connectes', 'PLCBUS', 'Peripheriques Chacon / MyFox', 'Peripheriques EnOcean', 'Peripheriques Wifi', 'Peripheriques Z-Wave', 'Peripheriques ZigBee', 'Robotique', 'Terrain', 'Test Materiel Informatique', 'Test Peripheriques Domotiques', 'Tests Audio / Video', 'Tests Box Domotique', 'Tests Equipement Maison', 'Tests Logiciels', 'Tests Objets Connectes', 'Tests Peripheriques Domotiques', 'Tests Robots', 'Veille', 'Zibase', 'eeDomus']
 scores[accuracy,precision,recall,f1-measure]:
 s--0.0840336134454,0.018018018018,0.666666666667,0.0350877192982
 scoresWa[accuracy,precision,recall,f1-measure]:
 sw--0.0672268907563,0.0,0.0,0.0
 -------------------------------------------------------
-0:00:38.438169
+0:03:02.598782
 ===========================================================
-Total time:0:00:39.817540

@@ -10,6 +10,7 @@ test matrix shape:(101, 12312)
 objects with labels: (101, 7)
 labels predicted shape:(101, 7)
 labels predicted shape:(101, 7)
+['Actualite', 'Alarme', 'Box Domotique', 'Camera', 'Evenements', 'Non classe', 'Tutoriel']
 scores[accuracy,precision,recall,f1-measure]:
 s--0.29702970297,0.509345794393,0.893442622951,0.64880952381
 scoresWa[accuracy,precision,recall,f1-measure]:
@@ -20,12 +21,13 @@ test matrix shape:(102, 12312)
 objects with labels: (102, 7)
 labels predicted shape:(102, 7)
 labels predicted shape:(102, 7)
+['Actualite', 'Alarme', 'Box Domotique', 'Camera', 'Evenements', 'Non classe', 'Tutoriel']
 scores[accuracy,precision,recall,f1-measure]:
 s--0.294117647059,0.511520737327,0.895161290323,0.651026392962
 scoresWa[accuracy,precision,recall,f1-measure]:
 sw--0.294117647059,0.511520737327,0.895161290323,0.651026392962
 -------------------------------------------------------
-0:00:00.491746
+0:00:02.199512
 ===========================================================
 current_year:2013-train_total:131
 training matrix shape:(131, 38644)
@@ -38,11 +40,11 @@ test matrix shape:(1, 38644)
 objects with labels: (1, 14)
 labels predicted shape:(1, 14)
 labels predicted shape:(1, 14)
+['Actualite', 'Alarme', 'Box Domotique', 'Camera', 'Cubieboard', 'Eedomus', 'EnOcean', 'Evenements', 'Fibaro', 'Formation', 'Non classe', 'Raspberry PI', 'Tutoriel', 'Zibase']
 scores[accuracy,precision,recall,f1-measure]:
 s--0.0,0.5,1.0,0.666666666667
 scoresWa[accuracy,precision,recall,f1-measure]:
 sw--0.0,0.333333333333,1.0,0.5
 -------------------------------------------------------
-0:00:01.846016
+0:00:26.097901
 ===========================================================
-Total time:0:00:02.878545

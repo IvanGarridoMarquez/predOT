@@ -1,0 +1,290 @@
+blog's life from 2009 to 2015
+///////////////////////////////////////////////////////////
+current_year:2009-train_total:10
+training matrix shape:(10, 8376)
+objects with labels: (10, 5) - number of categories: 5
+year:2009-train:10 w:1
+size of weights array:10
+test set range:[2010-2010]-test_total:48
+test matrix shape:(48, 8376)
+objects with labels: (48, 5)
+labels predicted shape:(48, 5)
+labels predicted shape:(48, 5)
+['Contrat', "Droit d'auteur", u'Mod\xe8le \xe9conomique', u'Num\xe9risation', u'Responsabilit\xe9']
+scores[accuracy,precision,recall,f1-measure]:
+s--0.104166666667,0.0,0.0,0.0
+scoresWa[accuracy,precision,recall,f1-measure]:
+sw--0.104166666667,0.0,0.0,0.0
+-------------------------------------------------------
+test set range:[2010-2011]-test_total:123
+test matrix shape:(123, 8376)
+objects with labels: (123, 5)
+labels predicted shape:(123, 5)
+labels predicted shape:(123, 5)
+['Contrat', "Droit d'auteur", u'Mod\xe8le \xe9conomique', u'Num\xe9risation', u'Responsabilit\xe9']
+scores[accuracy,precision,recall,f1-measure]:
+s--0.162601626016,0.00606060606061,1.0,0.0120481927711
+scoresWa[accuracy,precision,recall,f1-measure]:
+sw--0.162601626016,0.00606060606061,1.0,0.0120481927711
+-------------------------------------------------------
+test set range:[2010-2012]-test_total:187
+test matrix shape:(187, 8376)
+objects with labels: (187, 5)
+labels predicted shape:(187, 5)
+labels predicted shape:(187, 5)
+['Contrat', "Droit d'auteur", u'Mod\xe8le \xe9conomique', u'Num\xe9risation', u'Responsabilit\xe9']
+scores[accuracy,precision,recall,f1-measure]:
+s--0.229946524064,0.00452488687783,1.0,0.00900900900901
+scoresWa[accuracy,precision,recall,f1-measure]:
+sw--0.229946524064,0.00452488687783,1.0,0.00900900900901
+-------------------------------------------------------
+test set range:[2010-2013]-test_total:227
+test matrix shape:(227, 8376)
+objects with labels: (227, 5)
+labels predicted shape:(227, 5)
+labels predicted shape:(227, 5)
+['Contrat', "Droit d'auteur", u'Mod\xe8le \xe9conomique', u'Num\xe9risation', u'Responsabilit\xe9']
+scores[accuracy,precision,recall,f1-measure]:
+s--0.251101321586,0.00396825396825,1.0,0.00790513833992
+scoresWa[accuracy,precision,recall,f1-measure]:
+sw--0.251101321586,0.00396825396825,1.0,0.00790513833992
+-------------------------------------------------------
+test set range:[2010-2014]-test_total:254
+test matrix shape:(254, 8376)
+objects with labels: (254, 5)
+labels predicted shape:(254, 5)
+labels predicted shape:(254, 5)
+['Contrat', "Droit d'auteur", u'Mod\xe8le \xe9conomique', u'Num\xe9risation', u'Responsabilit\xe9']
+scores[accuracy,precision,recall,f1-measure]:
+s--0.299212598425,0.00384615384615,1.0,0.00766283524904
+scoresWa[accuracy,precision,recall,f1-measure]:
+sw--0.299212598425,0.00384615384615,1.0,0.00766283524904
+-------------------------------------------------------
+test set range:[2010-2015]-test_total:273
+test matrix shape:(273, 8376)
+objects with labels: (273, 5)
+labels predicted shape:(273, 5)
+labels predicted shape:(273, 5)
+['Contrat', "Droit d'auteur", u'Mod\xe8le \xe9conomique', u'Num\xe9risation', u'Responsabilit\xe9']
+scores[accuracy,precision,recall,f1-measure]:
+s--0.340659340659,0.00381679389313,1.0,0.00760456273764
+scoresWa[accuracy,precision,recall,f1-measure]:
+sw--0.340659340659,0.00381679389313,1.0,0.00760456273764
+-------------------------------------------------------
+0:00:03.650539
+===========================================================
+current_year:2010-train_total:58
+training matrix shape:(58, 46727)
+objects with labels: (58, 8) - number of categories: 8
+year:2010-train:48 w:1
+year:2009-train:10 w:0.666666666667
+size of weights array:58
+test set range:[2011-2011]-test_total:75
+test matrix shape:(75, 46727)
+objects with labels: (75, 8)
+labels predicted shape:(75, 8)
+labels predicted shape:(75, 8)
+['Contrat', u'Donn\xe9es personnelles', "Droit d'auteur", 'Gouvernance', u'Mod\xe8le \xe9conomique', u'Num\xe9risation', u'Responsabilit\xe9', 'Revue de tweets']
+scores[accuracy,precision,recall,f1-measure]:
+s--0.16,0.147540983607,0.9,0.253521126761
+scoresWa[accuracy,precision,recall,f1-measure]:
+sw--0.146666666667,0.114754098361,1.0,0.205882352941
+-------------------------------------------------------
+test set range:[2011-2012]-test_total:139
+test matrix shape:(139, 46727)
+objects with labels: (139, 8)
+labels predicted shape:(139, 8)
+labels predicted shape:(139, 8)
+['Contrat', u'Donn\xe9es personnelles', "Droit d'auteur", 'Gouvernance', u'Mod\xe8le \xe9conomique', u'Num\xe9risation', u'Responsabilit\xe9', 'Revue de tweets']
+scores[accuracy,precision,recall,f1-measure]:
+s--0.172661870504,0.180487804878,0.948717948718,0.303278688525
+scoresWa[accuracy,precision,recall,f1-measure]:
+sw--0.143884892086,0.141463414634,1.0,0.247863247863
+-------------------------------------------------------
+test set range:[2011-2013]-test_total:179
+test matrix shape:(179, 46727)
+objects with labels: (179, 8)
+labels predicted shape:(179, 8)
+labels predicted shape:(179, 8)
+['Contrat', u'Donn\xe9es personnelles', "Droit d'auteur", 'Gouvernance', u'Mod\xe8le \xe9conomique', u'Num\xe9risation', u'Responsabilit\xe9', 'Revue de tweets']
+scores[accuracy,precision,recall,f1-measure]:
+s--0.223463687151,0.204918032787,0.909090909091,0.334448160535
+scoresWa[accuracy,precision,recall,f1-measure]:
+sw--0.201117318436,0.168032786885,0.953488372093,0.285714285714
+-------------------------------------------------------
+test set range:[2011-2014]-test_total:206
+test matrix shape:(206, 46727)
+objects with labels: (206, 8)
+labels predicted shape:(206, 8)
+labels predicted shape:(206, 8)
+['Contrat', u'Donn\xe9es personnelles', "Droit d'auteur", 'Gouvernance', u'Mod\xe8le \xe9conomique', u'Num\xe9risation', u'Responsabilit\xe9', 'Revue de tweets']
+scores[accuracy,precision,recall,f1-measure]:
+s--0.23786407767,0.205992509363,0.887096774194,0.334346504559
+scoresWa[accuracy,precision,recall,f1-measure]:
+sw--0.218446601942,0.172284644195,0.92,0.290220820189
+-------------------------------------------------------
+test set range:[2011-2015]-test_total:225
+test matrix shape:(225, 46727)
+objects with labels: (225, 8)
+labels predicted shape:(225, 8)
+labels predicted shape:(225, 8)
+['Contrat', u'Donn\xe9es personnelles', "Droit d'auteur", 'Gouvernance', u'Mod\xe8le \xe9conomique', u'Num\xe9risation', u'Responsabilit\xe9', 'Revue de tweets']
+scores[accuracy,precision,recall,f1-measure]:
+s--0.24,0.201413427562,0.890625,0.328530259366
+scoresWa[accuracy,precision,recall,f1-measure]:
+sw--0.222222222222,0.16961130742,0.923076923077,0.286567164179
+-------------------------------------------------------
+0:00:22.419587
+===========================================================
+current_year:2011-train_total:133
+training matrix shape:(133, 94781)
+objects with labels: (133, 12) - number of categories: 12
+year:2011-train:75 w:1
+year:2010-train:48 w:0.666666666667
+year:2009-train:10 w:0.444444444444
+size of weights array:133
+test set range:[2012-2012]-test_total:64
+test matrix shape:(64, 94781)
+objects with labels: (64, 12)
+labels predicted shape:(64, 12)
+labels predicted shape:(64, 12)
+[u'Actualit\xe9', "Analyse d'ouvrage", u'Compte rendu de conf\xe9rences', 'Contrat', u'Donn\xe9es personnelles', "Droit d'auteur", 'Gouvernance', u'Mod\xe8le \xe9conomique', u'Non class\xe9', u'Num\xe9risation', u'Responsabilit\xe9', 'Revue de tweets']
+scores[accuracy,precision,recall,f1-measure]:
+s--0.5625,0.597701149425,0.881355932203,0.712328767123
+scoresWa[accuracy,precision,recall,f1-measure]:
+sw--0.578125,0.586206896552,0.910714285714,0.713286713287
+-------------------------------------------------------
+test set range:[2012-2013]-test_total:104
+test matrix shape:(104, 94781)
+objects with labels: (104, 12)
+labels predicted shape:(104, 12)
+labels predicted shape:(104, 12)
+[u'Actualit\xe9', "Analyse d'ouvrage", u'Compte rendu de conf\xe9rences', 'Contrat', u'Donn\xe9es personnelles', "Droit d'auteur", 'Gouvernance', u'Mod\xe8le \xe9conomique', u'Non class\xe9', u'Num\xe9risation', u'Responsabilit\xe9', 'Revue de tweets']
+scores[accuracy,precision,recall,f1-measure]:
+s--0.519230769231,0.573529411765,0.847826086957,0.684210526316
+scoresWa[accuracy,precision,recall,f1-measure]:
+sw--0.509615384615,0.551470588235,0.862068965517,0.67264573991
+-------------------------------------------------------
+test set range:[2012-2014]-test_total:131
+test matrix shape:(131, 94781)
+objects with labels: (131, 12)
+labels predicted shape:(131, 12)
+labels predicted shape:(131, 12)
+[u'Actualit\xe9', "Analyse d'ouvrage", u'Compte rendu de conf\xe9rences', 'Contrat', u'Donn\xe9es personnelles', "Droit d'auteur", 'Gouvernance', u'Mod\xe8le \xe9conomique', u'Non class\xe9', u'Num\xe9risation', u'Responsabilit\xe9', 'Revue de tweets']
+scores[accuracy,precision,recall,f1-measure]:
+s--0.557251908397,0.59509202454,0.850877192982,0.70036101083
+scoresWa[accuracy,precision,recall,f1-measure]:
+sw--0.496183206107,0.533742331288,0.861386138614,0.659090909091
+-------------------------------------------------------
+test set range:[2012-2015]-test_total:150
+test matrix shape:(150, 94781)
+objects with labels: (150, 12)
+labels predicted shape:(150, 12)
+labels predicted shape:(150, 12)
+[u'Actualit\xe9', "Analyse d'ouvrage", u'Compte rendu de conf\xe9rences', 'Contrat', u'Donn\xe9es personnelles', "Droit d'auteur", 'Gouvernance', u'Mod\xe8le \xe9conomique', u'Non class\xe9', u'Num\xe9risation', u'Responsabilit\xe9', 'Revue de tweets']
+scores[accuracy,precision,recall,f1-measure]:
+s--0.52,0.562841530055,0.851239669421,0.677631578947
+scoresWa[accuracy,precision,recall,f1-measure]:
+sw--0.44,0.486338797814,0.855769230769,0.620209059233
+-------------------------------------------------------
+0:01:31.398130
+===========================================================
+current_year:2012-train_total:197
+training matrix shape:(197, 129627)
+objects with labels: (197, 12) - number of categories: 12
+year:2012-train:64 w:1
+year:2011-train:75 w:0.666666666667
+year:2010-train:48 w:0.444444444444
+year:2009-train:10 w:0.296296296296
+size of weights array:197
+test set range:[2013-2013]-test_total:40
+test matrix shape:(40, 129627)
+objects with labels: (40, 12)
+labels predicted shape:(40, 12)
+labels predicted shape:(40, 12)
+[u'Actualit\xe9', "Analyse d'ouvrage", u'Compte rendu de conf\xe9rences', 'Contrat', u'Donn\xe9es personnelles', "Droit d'auteur", 'Gouvernance', u'Mod\xe8le \xe9conomique', u'Non class\xe9', u'Num\xe9risation', u'Responsabilit\xe9', 'Revue de tweets']
+scores[accuracy,precision,recall,f1-measure]:
+s--0.475,0.551020408163,0.794117647059,0.650602409639
+scoresWa[accuracy,precision,recall,f1-measure]:
+sw--0.475,0.571428571429,0.8,0.666666666667
+-------------------------------------------------------
+test set range:[2013-2014]-test_total:67
+test matrix shape:(67, 129627)
+objects with labels: (67, 12)
+labels predicted shape:(67, 12)
+labels predicted shape:(67, 12)
+[u'Actualit\xe9', "Analyse d'ouvrage", u'Compte rendu de conf\xe9rences', 'Contrat', u'Donn\xe9es personnelles', "Droit d'auteur", 'Gouvernance', u'Mod\xe8le \xe9conomique', u'Non class\xe9', u'Num\xe9risation', u'Responsabilit\xe9', 'Revue de tweets']
+scores[accuracy,precision,recall,f1-measure]:
+s--0.582089552239,0.618421052632,0.783333333333,0.691176470588
+scoresWa[accuracy,precision,recall,f1-measure]:
+sw--0.582089552239,0.631578947368,0.786885245902,0.700729927007
+-------------------------------------------------------
+test set range:[2013-2015]-test_total:86
+test matrix shape:(86, 129627)
+objects with labels: (86, 12)
+labels predicted shape:(86, 12)
+labels predicted shape:(86, 12)
+[u'Actualit\xe9', "Analyse d'ouvrage", u'Compte rendu de conf\xe9rences', 'Contrat', u'Donn\xe9es personnelles', "Droit d'auteur", 'Gouvernance', u'Mod\xe8le \xe9conomique', u'Non class\xe9', u'Num\xe9risation', u'Responsabilit\xe9', 'Revue de tweets']
+scores[accuracy,precision,recall,f1-measure]:
+s--0.616279069767,0.645833333333,0.815789473684,0.720930232558
+scoresWa[accuracy,precision,recall,f1-measure]:
+sw--0.616279069767,0.65625,0.7875,0.715909090909
+-------------------------------------------------------
+0:03:40.918270
+===========================================================
+current_year:2013-train_total:237
+training matrix shape:(237, 148837)
+objects with labels: (237, 13) - number of categories: 13
+year:2013-train:40 w:1
+year:2012-train:64 w:0.666666666667
+year:2011-train:75 w:0.444444444444
+year:2010-train:48 w:0.296296296296
+year:2009-train:10 w:0.197530864198
+size of weights array:237
+test set range:[2014-2014]-test_total:27
+test matrix shape:(27, 148837)
+objects with labels: (27, 13)
+labels predicted shape:(27, 13)
+labels predicted shape:(27, 13)
+[u'Actualit\xe9', "Analyse d'ouvrage", u'Compte rendu de conf\xe9rences', 'Contrat', u'Donn\xe9es personnelles', "Droit d'auteur", 'FAQ', 'Gouvernance', u'Mod\xe8le \xe9conomique', u'Non class\xe9', u'Num\xe9risation', u'Responsabilit\xe9', 'Revue de tweets']
+scores[accuracy,precision,recall,f1-measure]:
+s--0.740740740741,0.740740740741,0.909090909091,0.816326530612
+scoresWa[accuracy,precision,recall,f1-measure]:
+sw--0.740740740741,0.740740740741,0.769230769231,0.754716981132
+-------------------------------------------------------
+test set range:[2014-2015]-test_total:46
+test matrix shape:(46, 148837)
+objects with labels: (46, 13)
+labels predicted shape:(46, 13)
+labels predicted shape:(46, 13)
+[u'Actualit\xe9', "Analyse d'ouvrage", u'Compte rendu de conf\xe9rences', 'Contrat', u'Donn\xe9es personnelles', "Droit d'auteur", 'FAQ', 'Gouvernance', u'Mod\xe8le \xe9conomique', u'Non class\xe9', u'Num\xe9risation', u'Responsabilit\xe9', 'Revue de tweets']
+scores[accuracy,precision,recall,f1-measure]:
+s--0.739130434783,0.744680851064,0.921052631579,0.823529411765
+scoresWa[accuracy,precision,recall,f1-measure]:
+sw--0.739130434783,0.744680851064,0.777777777778,0.760869565217
+-------------------------------------------------------
+0:06:35.206001
+===========================================================
+current_year:2014-train_total:264
+training matrix shape:(264, 160018)
+objects with labels: (264, 13) - number of categories: 13
+year:2014-train:27 w:1
+year:2013-train:40 w:0.666666666667
+year:2012-train:64 w:0.444444444444
+year:2011-train:75 w:0.296296296296
+year:2010-train:48 w:0.197530864198
+year:2009-train:10 w:0.131687242798
+size of weights array:264
+test set range:[2015-2015]-test_total:19
+test matrix shape:(19, 160018)
+objects with labels: (19, 13)
+labels predicted shape:(19, 13)
+labels predicted shape:(19, 13)
+[u'Actualit\xe9', "Analyse d'ouvrage", u'Compte rendu de conf\xe9rences', 'Contrat', u'Donn\xe9es personnelles', "Droit d'auteur", 'FAQ', 'Gouvernance', u'Mod\xe8le \xe9conomique', u'Non class\xe9', u'Num\xe9risation', u'Responsabilit\xe9', 'Revue de tweets']
+scores[accuracy,precision,recall,f1-measure]:
+s--0.736842105263,0.75,0.9375,0.833333333333
+scoresWa[accuracy,precision,recall,f1-measure]:
+sw--0.736842105263,0.75,0.9375,0.833333333333
+-------------------------------------------------------
+0:09:56.193850
+===========================================================

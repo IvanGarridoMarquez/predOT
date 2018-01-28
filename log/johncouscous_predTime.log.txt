@@ -1,0 +1,290 @@
+blog's life from 2009 to 2015
+///////////////////////////////////////////////////////////
+current_year:2009-train_total:4
+training matrix shape:(4, 690)
+objects with labels: (4, 4) - number of categories: 4
+year:2009-train:4 w:1
+size of weights array:4
+test set range:[2010-2010]-test_total:26
+test matrix shape:(26, 690)
+objects with labels: (26, 4)
+labels predicted shape:(26, 4)
+labels predicted shape:(26, 4)
+['La vie du blog', u'M\xe9dias', 'Sports', 'Web']
+scores[accuracy,precision,recall,f1-measure]:
+s--0.153846153846,0.5,0.0454545454545,0.0833333333333
+scoresWa[accuracy,precision,recall,f1-measure]:
+sw--0.153846153846,0.5,0.0454545454545,0.0833333333333
+-------------------------------------------------------
+test set range:[2010-2011]-test_total:212
+test matrix shape:(212, 690)
+objects with labels: (212, 4)
+labels predicted shape:(212, 4)
+labels predicted shape:(212, 4)
+['La vie du blog', u'M\xe9dias', 'Sports', 'Web']
+scores[accuracy,precision,recall,f1-measure]:
+s--0.108490566038,0.384615384615,0.0263157894737,0.0492610837438
+scoresWa[accuracy,precision,recall,f1-measure]:
+sw--0.108490566038,0.384615384615,0.0263157894737,0.0492610837438
+-------------------------------------------------------
+test set range:[2010-2012]-test_total:444
+test matrix shape:(444, 690)
+objects with labels: (444, 4)
+labels predicted shape:(444, 4)
+labels predicted shape:(444, 4)
+['La vie du blog', u'M\xe9dias', 'Sports', 'Web']
+scores[accuracy,precision,recall,f1-measure]:
+s--0.112612612613,0.285714285714,0.0151515151515,0.0287769784173
+scoresWa[accuracy,precision,recall,f1-measure]:
+sw--0.112612612613,0.285714285714,0.0151515151515,0.0287769784173
+-------------------------------------------------------
+test set range:[2010-2013]-test_total:707
+test matrix shape:(707, 690)
+objects with labels: (707, 4)
+labels predicted shape:(707, 4)
+labels predicted shape:(707, 4)
+['La vie du blog', u'M\xe9dias', 'Sports', 'Web']
+scores[accuracy,precision,recall,f1-measure]:
+s--0.107496463932,0.2,0.0142630744849,0.0266272189349
+scoresWa[accuracy,precision,recall,f1-measure]:
+sw--0.107496463932,0.2,0.0142630744849,0.0266272189349
+-------------------------------------------------------
+test set range:[2010-2014]-test_total:1008
+test matrix shape:(1008, 690)
+objects with labels: (1008, 4)
+labels predicted shape:(1008, 4)
+labels predicted shape:(1008, 4)
+['La vie du blog', u'M\xe9dias', 'Sports', 'Web']
+scores[accuracy,precision,recall,f1-measure]:
+s--0.126984126984,0.25641025641,0.0225479143179,0.0414507772021
+scoresWa[accuracy,precision,recall,f1-measure]:
+sw--0.126984126984,0.25641025641,0.0225479143179,0.0414507772021
+-------------------------------------------------------
+test set range:[2010-2015]-test_total:1230
+test matrix shape:(1230, 690)
+objects with labels: (1230, 4)
+labels predicted shape:(1230, 4)
+labels predicted shape:(1230, 4)
+['La vie du blog', u'M\xe9dias', 'Sports', 'Web']
+scores[accuracy,precision,recall,f1-measure]:
+s--0.130081300813,0.242105263158,0.0213160333642,0.0391822827939
+scoresWa[accuracy,precision,recall,f1-measure]:
+sw--0.130081300813,0.242105263158,0.0213160333642,0.0391822827939
+-------------------------------------------------------
+0:00:05.074153
+===========================================================
+current_year:2010-train_total:30
+training matrix shape:(30, 8903)
+objects with labels: (30, 13) - number of categories: 13
+year:2010-train:26 w:1
+year:2009-train:4 w:0.666666666667
+size of weights array:30
+test set range:[2011-2011]-test_total:186
+test matrix shape:(186, 8903)
+objects with labels: (186, 13)
+labels predicted shape:(186, 13)
+labels predicted shape:(186, 13)
+['Arrivage', 'Bons plans', u'Communiqu\xe9 de presse', 'Concours', 'Humour', u'Jeux Vid\xe9o', 'La vie du blog', u'M\xe9dias', 'PS3', 'Poker', 'Salon', 'Sports', 'Web']
+scores[accuracy,precision,recall,f1-measure]:
+s--0.172043010753,0.43595505618,0.937198067633,0.59509202454
+scoresWa[accuracy,precision,recall,f1-measure]:
+sw--0.172043010753,0.43595505618,0.937198067633,0.59509202454
+-------------------------------------------------------
+test set range:[2011-2012]-test_total:418
+test matrix shape:(418, 8903)
+objects with labels: (418, 13)
+labels predicted shape:(418, 13)
+labels predicted shape:(418, 13)
+['Arrivage', 'Bons plans', u'Communiqu\xe9 de presse', 'Concours', 'Humour', u'Jeux Vid\xe9o', 'La vie du blog', u'M\xe9dias', 'PS3', 'Poker', 'Salon', 'Sports', 'Web']
+scores[accuracy,precision,recall,f1-measure]:
+s--0.253588516746,0.48253968254,0.944099378882,0.638655462185
+scoresWa[accuracy,precision,recall,f1-measure]:
+sw--0.253588516746,0.48253968254,0.944099378882,0.638655462185
+-------------------------------------------------------
+test set range:[2011-2013]-test_total:681
+test matrix shape:(681, 8903)
+objects with labels: (681, 13)
+labels predicted shape:(681, 13)
+labels predicted shape:(681, 13)
+['Arrivage', 'Bons plans', u'Communiqu\xe9 de presse', 'Concours', 'Humour', u'Jeux Vid\xe9o', 'La vie du blog', u'M\xe9dias', 'PS3', 'Poker', 'Salon', 'Sports', 'Web']
+scores[accuracy,precision,recall,f1-measure]:
+s--0.265785609398,0.498005319149,0.940954773869,0.651304347826
+scoresWa[accuracy,precision,recall,f1-measure]:
+sw--0.265785609398,0.498005319149,0.940954773869,0.651304347826
+-------------------------------------------------------
+test set range:[2011-2014]-test_total:982
+test matrix shape:(982, 8903)
+objects with labels: (982, 13)
+labels predicted shape:(982, 13)
+labels predicted shape:(982, 13)
+['Arrivage', 'Bons plans', u'Communiqu\xe9 de presse', 'Concours', 'Humour', u'Jeux Vid\xe9o', 'La vie du blog', u'M\xe9dias', 'PS3', 'Poker', 'Salon', 'Sports', 'Web']
+scores[accuracy,precision,recall,f1-measure]:
+s--0.309572301426,0.517106549365,0.923211169284,0.66290726817
+scoresWa[accuracy,precision,recall,f1-measure]:
+sw--0.309572301426,0.517106549365,0.922406277245,0.662699655496
+-------------------------------------------------------
+test set range:[2011-2015]-test_total:1204
+test matrix shape:(1204, 8903)
+objects with labels: (1204, 13)
+labels predicted shape:(1204, 13)
+labels predicted shape:(1204, 13)
+['Arrivage', 'Bons plans', u'Communiqu\xe9 de presse', 'Concours', 'Humour', u'Jeux Vid\xe9o', 'La vie du blog', u'M\xe9dias', 'PS3', 'Poker', 'Salon', 'Sports', 'Web']
+scores[accuracy,precision,recall,f1-measure]:
+s--0.338870431894,0.533960720131,0.92750533049,0.67774603999
+scoresWa[accuracy,precision,recall,f1-measure]:
+sw--0.338870431894,0.533960720131,0.926846590909,0.677570093458
+-------------------------------------------------------
+0:00:13.360883
+===========================================================
+current_year:2011-train_total:216
+training matrix shape:(216, 52151)
+objects with labels: (216, 23) - number of categories: 23
+year:2011-train:186 w:1
+year:2010-train:26 w:0.666666666667
+year:2009-train:4 w:0.444444444444
+size of weights array:216
+test set range:[2012-2012]-test_total:232
+test matrix shape:(232, 52151)
+objects with labels: (232, 23)
+labels predicted shape:(232, 23)
+labels predicted shape:(232, 23)
+['Arrivage', 'Bons plans', u'Cin\xe9ma', u'Communiqu\xe9 de presse', 'Concours', 'Events', 'High Tech', 'Humour', u'Jeux Vid\xe9o', 'La vie du blog', u'M\xe9dias', 'PS Vita', 'PS3', 'PSP', 'Partenaires', 'Poker', 'Salon', 'Sports', 'Tests', u'Troph\xe9es', 'Web', 'Xbox 360', 'iPhone']
+scores[accuracy,precision,recall,f1-measure]:
+s--0.0431034482759,0.517967781908,0.811650485437,0.632375189107
+scoresWa[accuracy,precision,recall,f1-measure]:
+sw--0.0344827586207,0.513011152416,0.800773694391,0.625377643505
+-------------------------------------------------------
+test set range:[2012-2013]-test_total:495
+test matrix shape:(495, 52151)
+objects with labels: (495, 23)
+labels predicted shape:(495, 23)
+labels predicted shape:(495, 23)
+['Arrivage', 'Bons plans', u'Cin\xe9ma', u'Communiqu\xe9 de presse', 'Concours', 'Events', 'High Tech', 'Humour', u'Jeux Vid\xe9o', 'La vie du blog', u'M\xe9dias', 'PS Vita', 'PS3', 'PSP', 'Partenaires', 'Poker', 'Salon', 'Sports', 'Tests', u'Troph\xe9es', 'Web', 'Xbox 360', 'iPhone']
+scores[accuracy,precision,recall,f1-measure]:
+s--0.0262626262626,0.502866972477,0.823474178404,0.624421502314
+scoresWa[accuracy,precision,recall,f1-measure]:
+sw--0.020202020202,0.505733944954,0.818941504178,0.625310173697
+-------------------------------------------------------
+test set range:[2012-2014]-test_total:796
+test matrix shape:(796, 52151)
+objects with labels: (796, 23)
+labels predicted shape:(796, 23)
+labels predicted shape:(796, 23)
+['Arrivage', 'Bons plans', u'Cin\xe9ma', u'Communiqu\xe9 de presse', 'Concours', 'Events', 'High Tech', 'Humour', u'Jeux Vid\xe9o', 'La vie du blog', u'M\xe9dias', 'PS Vita', 'PS3', 'PSP', 'Partenaires', 'Poker', 'Salon', 'Sports', 'Tests', u'Troph\xe9es', 'Web', 'Xbox 360', 'iPhone']
+scores[accuracy,precision,recall,f1-measure]:
+s--0.0163316582915,0.495134730539,0.774590163934,0.604109589041
+scoresWa[accuracy,precision,recall,f1-measure]:
+sw--0.0125628140704,0.497380239521,0.769988412514,0.604365620737
+-------------------------------------------------------
+test set range:[2012-2015]-test_total:1018
+test matrix shape:(1018, 52151)
+objects with labels: (1018, 23)
+labels predicted shape:(1018, 23)
+labels predicted shape:(1018, 23)
+['Arrivage', 'Bons plans', u'Cin\xe9ma', u'Communiqu\xe9 de presse', 'Concours', 'Events', 'High Tech', 'Humour', u'Jeux Vid\xe9o', 'La vie du blog', u'M\xe9dias', 'PS Vita', 'PS3', 'PSP', 'Partenaires', 'Poker', 'Salon', 'Sports', 'Tests', u'Troph\xe9es', 'Web', 'Xbox 360', 'iPhone']
+scores[accuracy,precision,recall,f1-measure]:
+s--0.0137524557957,0.49258698941,0.754402224282,0.59600951858
+scoresWa[accuracy,precision,recall,f1-measure]:
+sw--0.0108055009823,0.495310136157,0.749885478699,0.596574344023
+-------------------------------------------------------
+0:01:42.700325
+===========================================================
+current_year:2012-train_total:448
+training matrix shape:(448, 117254)
+objects with labels: (448, 29) - number of categories: 29
+year:2012-train:232 w:1
+year:2011-train:186 w:0.666666666667
+year:2010-train:26 w:0.444444444444
+year:2009-train:4 w:0.296296296296
+size of weights array:448
+test set range:[2013-2013]-test_total:263
+test matrix shape:(263, 117254)
+objects with labels: (263, 29)
+labels predicted shape:(263, 29)
+labels predicted shape:(263, 29)
+['3DS', 'A la une', 'Arrivage', 'Bons plans', u'Cin\xe9ma', u'Communiqu\xe9 de presse', 'Concours', 'Events', 'Graine de Semoule', 'High Tech', 'Humour', u'Jeux Vid\xe9o', 'La vie du blog', u'M\xe9dias', 'PC', 'PS Vita', 'PS3', 'PSP', 'Partenaires', 'Poker', 'Salon', 'Sports', 'Tests', u'Troph\xe9es', 'Web', 'Wii', 'Wii U', 'Xbox 360', 'iPhone']
+scores[accuracy,precision,recall,f1-measure]:
+s--0.239543726236,0.526946107784,0.905882352941,0.666306111412
+scoresWa[accuracy,precision,recall,f1-measure]:
+sw--0.228136882129,0.513259195894,0.900900900901,0.653950953678
+-------------------------------------------------------
+test set range:[2013-2014]-test_total:564
+test matrix shape:(564, 117254)
+objects with labels: (564, 29)
+labels predicted shape:(564, 29)
+labels predicted shape:(564, 29)
+['3DS', 'A la une', 'Arrivage', 'Bons plans', u'Cin\xe9ma', u'Communiqu\xe9 de presse', 'Concours', 'Events', 'Graine de Semoule', 'High Tech', 'Humour', u'Jeux Vid\xe9o', 'La vie du blog', u'M\xe9dias', 'PC', 'PS Vita', 'PS3', 'PSP', 'Partenaires', 'Poker', 'Salon', 'Sports', 'Tests', u'Troph\xe9es', 'Web', 'Wii', 'Wii U', 'Xbox 360', 'iPhone']
+scores[accuracy,precision,recall,f1-measure]:
+s--0.202127659574,0.503401360544,0.849964106246,0.632309746328
+scoresWa[accuracy,precision,recall,f1-measure]:
+sw--0.200354609929,0.490221088435,0.835507246377,0.617899249732
+-------------------------------------------------------
+test set range:[2013-2015]-test_total:786
+test matrix shape:(786, 117254)
+objects with labels: (786, 29)
+labels predicted shape:(786, 29)
+labels predicted shape:(786, 29)
+['3DS', 'A la une', 'Arrivage', 'Bons plans', u'Cin\xe9ma', u'Communiqu\xe9 de presse', 'Concours', 'Events', 'Graine de Semoule', 'High Tech', 'Humour', u'Jeux Vid\xe9o', 'La vie du blog', u'M\xe9dias', 'PC', 'PS Vita', 'PS3', 'PSP', 'Partenaires', 'Poker', 'Salon', 'Sports', 'Tests', u'Troph\xe9es', 'Web', 'Wii', 'Wii U', 'Xbox 360', 'iPhone']
+scores[accuracy,precision,recall,f1-measure]:
+s--0.175572519084,0.495927318296,0.831844456122,0.621393523062
+scoresWa[accuracy,precision,recall,f1-measure]:
+sw--0.174300254453,0.476817042607,0.811300639659,0.600631412786
+-------------------------------------------------------
+0:06:56.227182
+===========================================================
+current_year:2013-train_total:711
+training matrix shape:(711, 173590)
+objects with labels: (711, 32) - number of categories: 32
+year:2013-train:263 w:1
+year:2012-train:232 w:0.666666666667
+year:2011-train:186 w:0.444444444444
+year:2010-train:26 w:0.296296296296
+year:2009-train:4 w:0.197530864198
+size of weights array:711
+test set range:[2014-2014]-test_total:301
+test matrix shape:(301, 173590)
+objects with labels: (301, 32)
+labels predicted shape:(301, 32)
+labels predicted shape:(301, 32)
+['3DS', 'A la une', 'Arrivage', 'Bons plans', u'Cin\xe9ma', u'Communiqu\xe9 de presse', 'Concours', 'Events', 'Graine de Semoule', 'High Tech', 'Humour', u'Jeux Vid\xe9o', 'La vie du blog', 'Musique', u'M\xe9dias', 'PC', 'PS Vita', 'PS3', 'PS4', 'PSP', 'Partenaires', 'Poker', 'Salon', 'Sports', 'Tests', u'Troph\xe9es', 'Web', 'Wii', 'Wii U', 'Xbox 360', 'Xbox One', 'iPhone']
+scores[accuracy,precision,recall,f1-measure]:
+s--0.0365448504983,0.528057553957,0.80306345733,0.637152777778
+scoresWa[accuracy,precision,recall,f1-measure]:
+sw--0.0199335548173,0.485611510791,0.768792710706,0.595238095238
+-------------------------------------------------------
+test set range:[2014-2015]-test_total:523
+test matrix shape:(523, 173590)
+objects with labels: (523, 32)
+labels predicted shape:(523, 32)
+labels predicted shape:(523, 32)
+['3DS', 'A la une', 'Arrivage', 'Bons plans', u'Cin\xe9ma', u'Communiqu\xe9 de presse', 'Concours', 'Events', 'Graine de Semoule', 'High Tech', 'Humour', u'Jeux Vid\xe9o', 'La vie du blog', 'Musique', u'M\xe9dias', 'PC', 'PS Vita', 'PS3', 'PS4', 'PSP', 'Partenaires', 'Poker', 'Salon', 'Sports', 'Tests', u'Troph\xe9es', 'Web', 'Wii', 'Wii U', 'Xbox 360', 'Xbox One', 'iPhone']
+scores[accuracy,precision,recall,f1-measure]:
+s--0.0267686424474,0.5167840862,0.793761935073,0.626004016064
+scoresWa[accuracy,precision,recall,f1-measure]:
+sw--0.0152963671128,0.484459179445,0.764052287582,0.592949530814
+-------------------------------------------------------
+0:17:58.725988
+===========================================================
+current_year:2014-train_total:1012
+training matrix shape:(1012, 232500)
+objects with labels: (1012, 33) - number of categories: 33
+year:2014-train:301 w:1
+year:2013-train:263 w:0.666666666667
+year:2012-train:232 w:0.444444444444
+year:2011-train:186 w:0.296296296296
+year:2010-train:26 w:0.197530864198
+year:2009-train:4 w:0.131687242798
+size of weights array:1012
+test set range:[2015-2015]-test_total:222
+test matrix shape:(222, 232500)
+objects with labels: (222, 33)
+labels predicted shape:(222, 33)
+labels predicted shape:(222, 33)
+['3DS', 'A la une', 'Android', 'Arrivage', 'Bons plans', u'Cin\xe9ma', u'Communiqu\xe9 de presse', 'Concours', 'Events', 'Graine de Semoule', 'High Tech', 'Humour', u'Jeux Vid\xe9o', 'La vie du blog', 'Musique', u'M\xe9dias', 'PC', 'PS Vita', 'PS3', 'PS4', 'PSP', 'Partenaires', 'Poker', 'Salon', 'Sports', 'Tests', u'Troph\xe9es', 'Web', 'Wii', 'Wii U', 'Xbox 360', 'Xbox One', 'iPhone']
+scores[accuracy,precision,recall,f1-measure]:
+s--0.171171171171,0.611650485437,0.875,0.72
+scoresWa[accuracy,precision,recall,f1-measure]:
+sw--0.148648648649,0.573786407767,0.887387387387,0.696933962264
+-------------------------------------------------------
+0:37:37.504319
+===========================================================
